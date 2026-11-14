@@ -1,0 +1,4448 @@
+{
+  "_meta": {
+    "schemaVersion": "2.0.0",
+    "dataVersion": "20261114-konst-v1",
+    "description": "Mapping Kotoba Latsol Konstruksi 01"
+  },
+  "questions": {
+    "konstruksi01-q001": [
+      "kb-konst-0527d064",
+      "kb-konst-29cacb85",
+      "kb-konst-f0cf036d",
+      "kb-konst-66bdd57d",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-v2-p6-274",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-2842928",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q002": [
+      "kb-konst-a46ea398",
+      "kb-konst-6207e433",
+      "kb-1221130",
+      "kb-konst-44b969fd",
+      "kb-v2-p6-274",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-2842928",
+      "kb-1223280",
+      "kb-1459400",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q003": [
+      "kb-konst-944a2d8b",
+      "kb-konst-a33f36bf",
+      "kb-konst-cabb446a",
+      "kb-konst-8ae5718f",
+      "kb-konst-645047a0",
+      "kb-konst-1db6b522",
+      "kb-konst-fcb3b610",
+      "kb-1392910",
+      "kb-v2-p2-104",
+      "kb-ext-1491-e582993a3a",
+      "kb-konst-19f1ca78",
+      "kb-ext-0353-e8b5b73a3a",
+      "kb-konst-51f635d6"
+    ],
+    "konstruksi01-q004": [
+      "kb-konst-b35b78c9",
+      "kb-konst-55a80045",
+      "kb-v2-p3-123",
+      "kb-konst-bf1fbc31",
+      "kb-v2-p6-274",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-konst-102595dc",
+      "kb-1297540",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q005": [
+      "kb-konst-26a1db13",
+      "kb-1223280",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-konst-44b969fd",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q006": [
+      "kb-konst-3878cf9e",
+      "kb-konst-5031af9c",
+      "kb-konst-326f3b84",
+      "kb-konst-20c5d3fd",
+      "kb-v2-p1-051",
+      "kb-konst-6cb3d9de",
+      "kb-konst-998dfe8d",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-konst-cdfd540c",
+      "kb-konst-49160c77",
+      "kb-1355850",
+      "kb-1297540",
+      "kb-ext-0560-e8a18c3a3a",
+      "kb-1220810"
+    ],
+    "konstruksi01-q007": [
+      "kb-konst-3ebe697b",
+      "kb-konst-781bb008",
+      "kb-1538000",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q008": [
+      "kb-konst-d303f588",
+      "kb-konst-29786e6c",
+      "kb-konst-631a727b",
+      "kb-konst-c0375c5c",
+      "kb-konst-52f083db",
+      "kb-1493700",
+      "kb-konst-1bf470f9",
+      "kb-konst-02ae7d61",
+      "kb-konst-bd10b950",
+      "kb-1386070",
+      "kb-konst-7d64ebfa",
+      "kb-konst-1a4f34a3",
+      "kb-konst-dc752f83",
+      "kb-ext-0837-e587ba3a3a",
+      "kb-1582820",
+      "kb-konst-b2a064b8",
+      "kb-konst-c06886fd",
+      "kb-1520380",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-ext-1123-e7b5843a3a",
+      "kb-ext-0576-e590883a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q009": [
+      "kb-konst-72fb522f",
+      "kb-konst-15180db3",
+      "kb-konst-38fe5133",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q010": [
+      "kb-konst-a16f5347",
+      "kb-konst-5fb370fb",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-ext-latsol-0001",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q011": [
+      "kb-konst-002d736f",
+      "kb-konst-a58b3ee8",
+      "kb-konst-3e44291c",
+      "kb-konst-65a13c55",
+      "kb-konst-cf7105a1",
+      "kb-konst-b494d756",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-1949190"
+    ],
+    "konstruksi01-q012": [
+      "kb-konst-4b04e67e",
+      "kb-konst-0983af2a",
+      "kb-1431110",
+      "kb-konst-70d2d263",
+      "kb-konst-4ce52944",
+      "kb-konst-c0da6200",
+      "kb-konst-2b497faa",
+      "kb-konst-002d736f",
+      "kb-konst-29642f01",
+      "kb-v2-p6-101",
+      "kb-konst-2b259a03",
+      "kb-konst-8bdcdbd6",
+      "kb-1220810",
+      "kb-ext-0576-e590883a3a",
+      "kb-konst-c20a7e2c",
+      "kb-v2-p6-260",
+      "kb-1481350",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-ext-1123-e7b5843a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q013": [
+      "kb-konst-4c02a1e5",
+      "kb-konst-eb643129",
+      "kb-konst-b78b253a",
+      "kb-konst-b264a04e",
+      "kb-konst-059d9bd4",
+      "kb-konst-b3be86b4",
+      "kb-konst-87721fed",
+      "kb-u1416-f97f177453",
+      "kb-konst-57c14a6c",
+      "kb-konst-29642f01",
+      "kb-1220810",
+      "kb-konst-20b346e2",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-konst-1a4f34a3",
+      "kb-ext-0972-e980b23a3a",
+      "kb-v2-p6-094",
+      "kb-ext-1139-e980813a3a",
+      "kb-1245470",
+      "kb-v2-p6-017",
+      "kb-konst-752f2648"
+    ],
+    "konstruksi01-q014": [
+      "kb-konst-b0896dc5",
+      "kb-konst-bf68fdf4",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-2842928",
+      "kb-1223280",
+      "kb-1459400",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q015": [
+      "kb-konst-9c80090d",
+      "kb-konst-ef734d93",
+      "kb-konst-0349ea6e",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q016": [
+      "kb-konst-0afa324e",
+      "kb-konst-50bff749",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-1220810",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q017": [
+      "kb-konst-6c8c0618",
+      "kb-konst-c775a8a8",
+      "kb-konst-5b244c2a",
+      "kb-konst-32951bd0",
+      "kb-konst-29642f01",
+      "kb-1220810",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-44b969fd",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q018": [
+      "kb-konst-2458269c",
+      "kb-1455170",
+      "kb-konst-c44e372f",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q019": [
+      "kb-konst-ddacfde8",
+      "kb-konst-a11ab2fa",
+      "kb-konst-1660dc52",
+      "kb-1321900",
+      "kb-1279730",
+      "kb-1538000",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q020": [
+      "kb-konst-b41b7e27",
+      "kb-konst-c944cc83",
+      "kb-konst-210d8a89",
+      "kb-konst-77b14f0a",
+      "kb-konst-56a3a161",
+      "kb-v2-p6-210",
+      "kb-konst-f247c0f0",
+      "kb-2646370",
+      "kb-2229780",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-1266650"
+    ],
+    "konstruksi01-q021": [
+      "kb-konst-e8b4d43d",
+      "kb-konst-14e69559",
+      "kb-konst-40eda8cb",
+      "kb-konst-04aaac27",
+      "kb-konst-8918f2ab",
+      "kb-konst-f9698b8f",
+      "kb-konst-f72d2036",
+      "kb-u1416-c457234dc3",
+      "kb-konst-3267c021",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-konst-843ae719",
+      "kb-v2-p6-094",
+      "kb-1499490",
+      "kb-1278070",
+      "kb-ext-latsol-0001"
+    ],
+    "konstruksi01-q022": [
+      "kb-konst-c10cd674",
+      "kb-konst-ca88c5a7",
+      "kb-konst-63d345b6",
+      "kb-konst-46999158",
+      "kb-konst-e582241b",
+      "kb-konst-8d9959bf",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-ext-0681-e4bb95e7b5",
+      "kb-v2-p6-044",
+      "kb-1587310",
+      "kb-1278070",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q023": [
+      "kb-konst-e391b5ea",
+      "kb-konst-5d880909",
+      "kb-v2-p1-049",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-1455170",
+      "kb-2842928",
+      "kb-1223280",
+      "kb-1459400",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q024": [
+      "kb-konst-e53b3d07",
+      "kb-konst-a8d8f95b",
+      "kb-konst-f0f60dba",
+      "kb-konst-b8fb76d8",
+      "kb-konst-5451d78b",
+      "kb-konst-45403a51",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-1499490",
+      "kb-ext-0112-e5bc953a3a"
+    ],
+    "konstruksi01-q025": [
+      "kb-konst-1e8c7a21",
+      "kb-konst-cd51c54a",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-konst-a8d8f95b",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q026": [
+      "kb-konst-1f3147d4",
+      "kb-konst-ef4b9e3d",
+      "kb-konst-ee8e1e64",
+      "kb-konst-54ef98f9",
+      "kb-konst-73f57f61",
+      "kb-konst-21f206fe",
+      "kb-konst-f2a65ed2",
+      "kb-konst-ba567266",
+      "kb-v2-p6-010",
+      "kb-konst-bc101310",
+      "kb-1200220",
+      "kb-1520380",
+      "kb-konst-4ff131e8"
+    ],
+    "konstruksi01-q027": [
+      "kb-konst-2bbc158c",
+      "kb-konst-f3c0a1b4",
+      "kb-1321900",
+      "kb-konst-b7ab83e7",
+      "kb-konst-29642f01",
+      "kb-konst-99c32b14",
+      "kb-1218920",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q028": [
+      "kb-konst-df30ed98",
+      "kb-konst-16c9ac7e",
+      "kb-konst-0b80c5ba",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-1257890",
+      "kb-2842928",
+      "kb-1223280",
+      "kb-1459400",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q029": [
+      "kb-konst-1b238a20",
+      "kb-konst-5191648a",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-1218920",
+      "kb-1296670",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q030": [
+      "kb-konst-ce36174a",
+      "kb-konst-b51028ad",
+      "kb-konst-6295267f",
+      "kb-konst-5191648a",
+      "kb-1306200",
+      "kb-1321900",
+      "kb-konst-05858683",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q031": [
+      "kb-konst-7a5ba8ae",
+      "kb-konst-278fad47",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-konst-a11ab2fa",
+      "kb-1538000",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q032": [
+      "kb-konst-7cd2e0b8",
+      "kb-konst-4c25b4c8",
+      "kb-konst-0fbe0961",
+      "kb-konst-898308cf",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-konst-f247c0f0",
+      "kb-konst-4c1f478a",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q033": [
+      "kb-konst-fe94015e",
+      "kb-konst-e69ba6e1",
+      "kb-konst-7a5ba8ae",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-1278070",
+      "kb-v2-p6-094"
+    ],
+    "konstruksi01-q034": [
+      "kb-konst-93b9397a",
+      "kb-konst-5cb8912f",
+      "kb-konst-d79d6845",
+      "kb-konst-29642f01",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q035": [
+      "kb-konst-75845ce8",
+      "kb-konst-4a1bc1a1",
+      "kb-konst-1581b56d",
+      "kb-konst-07689622",
+      "kb-konst-d504e505",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q036": [
+      "kb-konst-1d41e584",
+      "kb-konst-fd71d0ee",
+      "kb-konst-aed66af2",
+      "kb-konst-917473d2",
+      "kb-konst-fc0ec33f",
+      "kb-konst-f0bff7b8",
+      "kb-konst-c0df9e18",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-konst-29642f01",
+      "kb-ext-latsol-0034",
+      "kb-ext-0147-e6b19a3a3a",
+      "kb-1297540",
+      "kb-2846738",
+      "kb-ext-0501-e591bc3a3a",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q037": [
+      "kb-konst-f5a5cf59",
+      "kb-konst-5396ee8f",
+      "kb-konst-2b28cfe7",
+      "kb-konst-32deb034",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-konst-0983af2a",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-v2-p6-136",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q038": [
+      "kb-konst-08cec7de",
+      "kb-konst-ea35514f",
+      "kb-1531620",
+      "kb-1321900",
+      "kb-1306200",
+      "kb-1454180",
+      "kb-konst-5fb370fb",
+      "kb-ext-1123-e7b5843a3a",
+      "kb-ext-0576-e590883a3a",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q039": [
+      "kb-konst-f069097b",
+      "kb-konst-08cec7de",
+      "kb-1321900",
+      "kb-1306200",
+      "kb-1454180",
+      "kb-1531620",
+      "kb-konst-5fb370fb",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q040": [
+      "kb-konst-91a8150e",
+      "kb-konst-8ba44900",
+      "kb-konst-29f43dab",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-ext-0681-e4bb95e7b5",
+      "kb-konst-20b346e2",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q041": [
+      "kb-konst-0f02f8b8",
+      "kb-konst-ed8527e6",
+      "kb-1218630",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-1306200",
+      "kb-v2-p6-043",
+      "kb-konst-ee8e1e64",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q042": [
+      "kb-konst-324b8552",
+      "kb-konst-f907473b",
+      "kb-konst-a8954bc3",
+      "kb-konst-a83b2604",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-konst-677bf18b",
+      "kb-1220810",
+      "kb-1455170",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q043": [
+      "kb-konst-d97907ea",
+      "kb-2396450",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-1455170",
+      "kb-konst-ee8e1e64",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q044": [
+      "kb-konst-b8f9c0af",
+      "kb-konst-09d85aaf",
+      "kb-konst-c41c7b69",
+      "kb-konst-53426f11",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q045": [
+      "kb-konst-6de61878",
+      "kb-konst-c29fb1f3",
+      "kb-konst-85373021",
+      "kb-konst-a95e10c6",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-konst-b9efbd08",
+      "kb-ext-1145-e6b8ac3a3a",
+      "kb-1454180",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q046": [
+      "kb-konst-ae72c6e2",
+      "kb-konst-3028f992",
+      "kb-konst-414e91b4",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-1454180",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q047": [
+      "kb-konst-be2eaa52",
+      "kb-latsol-driver",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-1199330",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-v2-p6-136",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q048": [
+      "kb-konst-c111ac1b",
+      "kb-konst-bd5235a2",
+      "kb-konst-e3799209",
+      "kb-konst-63e4c65d",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q049": [
+      "kb-konst-451c8b62",
+      "kb-konst-13657789",
+      "kb-konst-0feb3f3f",
+      "kb-konst-4df2402f",
+      "kb-konst-16abd873",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-konst-1bf59545",
+      "kb-konst-cdfd540c",
+      "kb-2842928",
+      "kb-1386460",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-v2-p6-133"
+    ],
+    "konstruksi01-q050": [
+      "kb-1226890",
+      "kb-konst-575595a3",
+      "kb-2830915",
+      "kb-konst-de6acbd2",
+      "kb-1321900",
+      "kb-ext-0741-e7a4ba3a3a",
+      "kb-1153930",
+      "kb-1306300",
+      "kb-1591210",
+      "kb-1223280",
+      "kb-konst-918e18a4",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-2821500",
+      "kb-v2-p6-133"
+    ]
+  },
+  "options": {
+    "konstruksi01-q001": {
+      "A": [
+        "kb-konst-080b36e6",
+        "kb-konst-a935ae9b",
+        "kb-konst-b719fc23",
+        "kb-1451350",
+        "kb-konst-900ea946",
+        "kb-konst-dff5beb5",
+        "kb-konst-98531c1f",
+        "kb-konst-539607d7",
+        "kb-konst-b19c2bf8",
+        "kb-konst-0ebeb531",
+        "kb-konst-cca45764",
+        "kb-1511040",
+        "kb-ext-0560-e8a18c3a3a"
+      ],
+      "B": [
+        "kb-konst-48955f50",
+        "kb-konst-322f245a",
+        "kb-konst-3807ca53",
+        "kb-1587310",
+        "kb-konst-728fad49",
+        "kb-ext-1284-e4bd8e3a3a",
+        "kb-konst-98531c1f"
+      ],
+      "C": [
+        "kb-konst-20b346e2",
+        "kb-1220940",
+        "kb-konst-e97929bf",
+        "kb-1264670",
+        "kb-konst-5a8c635b",
+        "kb-1511040",
+        "kb-1306200"
+      ],
+      "D": [
+        "kb-konst-19c8ac83",
+        "kb-konst-1be7c375",
+        "kb-konst-dbe6d283",
+        "kb-konst-611b4cc2",
+        "kb-konst-0731fbcb",
+        "kb-ext-0560-e8a18c3a3a",
+        "kb-1220810"
+      ]
+    },
+    "konstruksi01-q002": {
+      "A": [
+        "kb-konst-3789a088",
+        "kb-konst-2912dbcc",
+        "kb-konst-b2df5ce1",
+        "kb-konst-f8c6c30c",
+        "kb-konst-69f7f8ab",
+        "kb-ext-0728-e68c813a3a",
+        "kb-1220810"
+      ],
+      "B": [
+        "kb-konst-180b1d05",
+        "kb-1394080",
+        "kb-konst-929d407a",
+        "kb-konst-1be7c375",
+        "kb-1402380",
+        "kb-konst-c20a7e2c",
+        "kb-konst-528dc160",
+        "kb-konst-3c828234",
+        "kb-konst-1438e24c",
+        "kb-konst-a811e2df",
+        "kb-konst-2912dbcc",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-1220810"
+      ],
+      "C": [
+        "kb-1392910",
+        "kb-konst-7e1a4f0b",
+        "kb-konst-fc6ec4ab",
+        "kb-konst-8ae5718f",
+        "kb-konst-645047a0",
+        "kb-konst-6ba76eff",
+        "kb-v2-p2-104",
+        "kb-ext-1491-e582993a3a",
+        "kb-1220810"
+      ],
+      "D": [
+        "kb-1195370",
+        "kb-konst-3026690d",
+        "kb-konst-0281cf4c",
+        "kb-konst-c25c8abf",
+        "kb-konst-b08ea8a5",
+        "kb-konst-c20a7e2c"
+      ]
+    },
+    "konstruksi01-q003": {
+      "A": [
+        "kb-konst-dd3282d7",
+        "kb-konst-84fb09fc",
+        "kb-konst-b5332c26"
+      ],
+      "B": [
+        "kb-konst-59625864",
+        "kb-konst-98830e1b"
+      ],
+      "C": [
+        "kb-konst-9539baa3",
+        "kb-konst-5b2b19bb",
+        "kb-konst-53e6c820",
+        "kb-1220810"
+      ],
+      "D": [
+        "kb-konst-d518a887",
+        "kb-v2-p5-321",
+        "kb-1220810"
+      ]
+    },
+    "konstruksi01-q004": {
+      "A": [
+        "kb-konst-f077c487",
+        "kb-konst-ae99e9d3",
+        "kb-konst-604ab9cd",
+        "kb-konst-4fc3fb05"
+      ],
+      "B": [
+        "kb-konst-98531c1f",
+        "kb-konst-241be892",
+        "kb-konst-cdfd540c",
+        "kb-konst-75df8c94"
+      ],
+      "C": [
+        "kb-konst-65443da9",
+        "kb-konst-041b1f52",
+        "kb-konst-2d73736a",
+        "kb-konst-8428aaa8"
+      ],
+      "D": [
+        "kb-konst-3be34dea",
+        "kb-konst-dfd56287",
+        "kb-konst-f4107804",
+        "kb-konst-9bd9057d"
+      ]
+    },
+    "konstruksi01-q005": {
+      "A": [
+        "kb-konst-bd9c18af",
+        "kb-konst-00246e3c",
+        "kb-konst-10d88640",
+        "kb-konst-2c3a1aac",
+        "kb-konst-02b1e0ae",
+        "kb-1406150"
+      ],
+      "B": [
+        "kb-konst-a8f16cfa",
+        "kb-konst-c61ebf10",
+        "kb-konst-22af0f3b",
+        "kb-konst-5c607fea",
+        "kb-konst-f077c487",
+        "kb-konst-528dc160",
+        "kb-ext-0684-e4bdbf3a3a",
+        "kb-1220810"
+      ],
+      "C": [
+        "kb-konst-cdb43668",
+        "kb-konst-e01e7bda",
+        "kb-v2-p6-205",
+        "kb-konst-39e8feeb",
+        "kb-konst-05dea1a3",
+        "kb-1158400",
+        "kb-ext-1491-e582993a3a"
+      ],
+      "D": [
+        "kb-konst-c0410be2",
+        "kb-konst-82103db5",
+        "kb-1199640",
+        "kb-konst-1a4f34a3",
+        "kb-ext-0501-e591bc3a3a",
+        "kb-ext-0153-e68abc3a3a",
+        "kb-v2-p6-155",
+        "kb-1220810"
+      ]
+    },
+    "konstruksi01-q006": {
+      "A": [
+        "kb-konst-f397a1aa",
+        "kb-konst-bfcb9370",
+        "kb-konst-fad060a3"
+      ],
+      "B": [
+        "kb-konst-91acd904",
+        "kb-konst-3026690d",
+        "kb-konst-c25c8abf",
+        "kb-1195370",
+        "kb-konst-e01e7bda"
+      ],
+      "C": [
+        "kb-konst-e217ede2",
+        "kb-konst-84b1a119"
+      ],
+      "D": [
+        "kb-konst-8302abad"
+      ]
+    },
+    "konstruksi01-q007": {
+      "A": [
+        "kb-konst-3688fa35",
+        "kb-konst-b2a064b8",
+        "kb-konst-c06886fd",
+        "kb-konst-5feecaaa",
+        "kb-konst-d70871c4",
+        "kb-1386070"
+      ],
+      "B": [
+        "kb-konst-34ce8058",
+        "kb-konst-112511c0",
+        "kb-konst-42efb4dd",
+        "kb-konst-76a88c1a",
+        "kb-konst-89796fbf"
+      ],
+      "C": [
+        "kb-konst-756a0ba2",
+        "kb-konst-dc752f83",
+        "kb-konst-a21060b7",
+        "kb-konst-10a8c2a8",
+        "kb-konst-3688fa35",
+        "kb-v2-p6-063",
+        "kb-ext-0230-e5a38a3a3a",
+        "kb-ext-1653-e998b23a3a"
+      ],
+      "D": [
+        "kb-konst-6cba094c",
+        "kb-konst-29f1c2cb",
+        "kb-konst-e69ba6e1",
+        "kb-konst-7d64ebfa",
+        "kb-konst-7556a14a",
+        "kb-konst-dc752f83",
+        "kb-1633260",
+        "kb-konst-e814cadd",
+        "kb-konst-92450a81",
+        "kb-ext-1222-e7bdae3a3a"
+      ]
+    },
+    "konstruksi01-q008": {
+      "A": [
+        "kb-konst-4efa92df",
+        "kb-konst-256a8083"
+      ],
+      "B": [
+        "kb-konst-295efe65",
+        "kb-konst-c68d394d"
+      ],
+      "C": [
+        "kb-konst-6866a256",
+        "kb-konst-da8e0681"
+      ],
+      "D": [
+        "kb-konst-6f1f8032",
+        "kb-konst-6cba094c"
+      ]
+    },
+    "konstruksi01-q009": {
+      "A": [
+        "kb-konst-fce47e56",
+        "kb-konst-2b259a03",
+        "kb-konst-c70b71da",
+        "kb-konst-b530735f",
+        "kb-v2-p5-008",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-konst-c20a7e2c"
+      ],
+      "B": [
+        "kb-konst-eddd48bd",
+        "kb-1199640",
+        "kb-konst-99550da4",
+        "kb-v2-p6-403",
+        "kb-konst-b530735f",
+        "kb-konst-20b346e2",
+        "kb-ext-0780-e58f963a3a",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-konst-c20a7e2c",
+        "kb-konst-2b259a03",
+        "kb-v2-p6-016",
+        "kb-konst-ef41c2bf"
+      ],
+      "C": [
+        "kb-1296670",
+        "kb-konst-f4107804",
+        "kb-konst-6a4b96fd",
+        "kb-ext-0590-e6b7b73a3a",
+        "kb-1220810"
+      ],
+      "D": [
+        "kb-konst-62fefce0",
+        "kb-konst-9bed840d",
+        "kb-konst-3af0f60e",
+        "kb-1318610",
+        "kb-1158400",
+        "kb-ext-0684-e4bdbf3a3a"
+      ]
+    },
+    "konstruksi01-q010": {
+      "A": [
+        "kb-konst-06525078",
+        "kb-konst-b736ad89",
+        "kb-konst-11a16495",
+        "kb-konst-4fc3fb05",
+        "kb-konst-b530735f",
+        "kb-1324940",
+        "kb-konst-9fff208e",
+        "kb-ext-0889-e4b88a3a3a",
+        "kb-konst-cdfd540c"
+      ],
+      "B": [
+        "kb-konst-9b1efbb0",
+        "kb-konst-c5eb36b5",
+        "kb-ext-0236-e9968b3a3a",
+        "kb-konst-6207e433",
+        "kb-konst-15180db3",
+        "kb-konst-c20a7e2c",
+        "kb-ext-0120-e9818b3a3a",
+        "kb-konst-2b259a03"
+      ],
+      "C": [
+        "kb-konst-4d58451a",
+        "kb-konst-81f1dc7e",
+        "kb-konst-a6a6f56a",
+        "kb-v2-p5-008",
+        "kb-konst-07cb3216",
+        "kb-ext-1340-e68a953a3a",
+        "kb-ext-1407-e585a53a3a",
+        "kb-ext-1145-e6b8ac3a3a"
+      ],
+      "D": [
+        "kb-konst-446358df",
+        "kb-konst-2008ceec",
+        "kb-konst-7f539ea4",
+        "kb-ext-0799-e591a83a3a",
+        "kb-konst-0ad2ad97",
+        "kb-konst-dbdc10b8",
+        "kb-konst-b530735f",
+        "kb-ext-1220-e79fa53a3a"
+      ]
+    },
+    "konstruksi01-q011": {
+      "A": [
+        "kb-konst-1109741a",
+        "kb-ext-0271-e5b7bb3a3a",
+        "kb-ext-0889-e4b88a3a3a",
+        "kb-konst-3e44291c"
+      ],
+      "B": [
+        "kb-konst-3c109c95",
+        "kb-1386050",
+        "kb-konst-bf68fdf4",
+        "kb-konst-446358df",
+        "kb-ext-0799-e591a83a3a",
+        "kb-konst-d8c3d1cc",
+        "kb-ext-1220-e79fa53a3a"
+      ],
+      "C": [
+        "kb-konst-0c71c731",
+        "kb-konst-dc73532c",
+        "kb-konst-bba3ae61",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-ext-0382-e5bcb73a3a",
+        "kb-konst-6207e433"
+      ],
+      "D": [
+        "kb-konst-b736ad89",
+        "kb-konst-8015dcb9",
+        "kb-konst-cc49a584",
+        "kb-konst-4ff131e8",
+        "kb-v2-p4-090",
+        "kb-v2-p6-064"
+      ]
+    },
+    "konstruksi01-q012": {
+      "A": [
+        "kb-konst-c5e7cada",
+        "kb-konst-2576f9a1"
+      ],
+      "B": [
+        "kb-konst-c0cfe991",
+        "kb-konst-cc9fafd6"
+      ],
+      "C": [
+        "kb-konst-c41c7b69",
+        "kb-konst-b480f805"
+      ],
+      "D": [
+        "kb-konst-ccd719ad",
+        "kb-konst-b736ad89"
+      ]
+    },
+    "konstruksi01-q013": {
+      "A": [
+        "kb-konst-943e8e84"
+      ],
+      "B": [
+        "kb-konst-50cbbd13"
+      ],
+      "C": [
+        "kb-konst-0b2323a9"
+      ],
+      "D": [
+        "kb-konst-6ffab5b6"
+      ]
+    },
+    "konstruksi01-q014": {
+      "A": [
+        "kb-konst-98c6b9c5",
+        "kb-konst-d6ca0f24",
+        "kb-konst-59ad81c3",
+        "kb-konst-faf6922b",
+        "kb-1323080"
+      ],
+      "B": [
+        "kb-konst-49d03a66",
+        "kb-1458770",
+        "kb-konst-e80ee757",
+        "kb-konst-4656badf",
+        "kb-ext-1407-e585a53a3a",
+        "kb-konst-44bb5829",
+        "kb-ext-1139-e980813a3a",
+        "kb-v2-p6-155"
+      ],
+      "C": [
+        "kb-konst-138979bd",
+        "kb-konst-e2c26e95",
+        "kb-1385120",
+        "kb-1220810"
+      ],
+      "D": [
+        "kb-konst-041b1f52",
+        "kb-konst-20dc3125",
+        "kb-konst-0e0ba4f9",
+        "kb-konst-3f7029b0",
+        "kb-ext-0780-e58f963a3a",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-konst-20b346e2",
+        "kb-ext-0684-e4bdbf3a3a"
+      ]
+    },
+    "konstruksi01-q015": {
+      "A": [
+        "kb-1798230",
+        "kb-konst-3dfa0027",
+        "kb-1283280",
+        "kb-1375390",
+        "kb-1190470",
+        "kb-ext-0506-e59bba3a3a"
+      ],
+      "B": [
+        "kb-konst-da8adec1",
+        "kb-konst-a7446bd3",
+        "kb-latsol-16f9ddd31d",
+        "kb-konst-26bfad95",
+        "kb-konst-e76d5983",
+        "kb-1279730",
+        "kb-ext-1407-e585a53a3a",
+        "kb-ext-1139-e980813a3a"
+      ],
+      "C": [
+        "kb-konst-09a8bac0",
+        "kb-konst-e2c26e95",
+        "kb-konst-4926e21d",
+        "kb-konst-20b346e2",
+        "kb-ext-0780-e58f963a3a",
+        "kb-ext-1541-e4bb983a3a"
+      ],
+      "D": [
+        "kb-konst-1581b56d",
+        "kb-konst-5b286fab",
+        "kb-konst-d0c6924c",
+        "kb-v2-p6-016",
+        "kb-ext-0590-e6b7b73a3a",
+        "kb-ext-0621-e4bd9c3a3a"
+      ]
+    },
+    "konstruksi01-q016": {
+      "A": [
+        "kb-konst-f3536fed",
+        "kb-konst-d6ca0f24",
+        "kb-konst-59ad81c3",
+        "kb-2082140",
+        "kb-ext-1491-e582993a3a",
+        "kb-konst-e01e7bda",
+        "kb-1269320",
+        "kb-1220810"
+      ],
+      "B": [
+        "kb-konst-0f18f800",
+        "kb-konst-cb0dd292",
+        "kb-1583930",
+        "kb-v2-p6-049",
+        "kb-1385120"
+      ],
+      "C": [
+        "kb-konst-a9c45c9f",
+        "kb-konst-1b0f07a4",
+        "kb-konst-b5332c26",
+        "kb-konst-ca9cc2dc",
+        "kb-konst-faf6922b",
+        "kb-konst-b5c10b8a",
+        "kb-konst-59ad81c3",
+        "kb-1220810"
+      ],
+      "D": [
+        "kb-konst-5b244c2a",
+        "kb-konst-3322f5b4",
+        "kb-ext-1756-e7ab8b3a3a",
+        "kb-v2-p6-094",
+        "kb-konst-98531c1f",
+        "kb-1220810"
+      ]
+    },
+    "konstruksi01-q017": {
+      "A": [
+        "kb-konst-c725bdc1",
+        "kb-konst-d8faa3f9",
+        "kb-konst-59bbf57a",
+        "kb-konst-6ffab5b6",
+        "kb-konst-9c84a11d",
+        "kb-konst-82103db5",
+        "kb-konst-f7aa4a73",
+        "kb-konst-1a4f34a3",
+        "kb-ext-0153-e68abc3a3a",
+        "kb-v2-p6-155",
+        "kb-ext-0576-e590883a3a",
+        "kb-v2-p4-117",
+        "kb-konst-c20a7e2c",
+        "kb-ext-0889-e4b88a3a3a"
+      ],
+      "B": [
+        "kb-konst-fd7c426b",
+        "kb-konst-d5eb38c4",
+        "kb-konst-5b244c2a",
+        "kb-konst-a439c4c4",
+        "kb-v2-p6-155",
+        "kb-1306200"
+      ],
+      "C": [
+        "kb-konst-34452cc9",
+        "kb-v2-p4-117",
+        "kb-konst-b2a064b8",
+        "kb-ext-0215-e9818e3a3a",
+        "kb-konst-0e0ba4f9"
+      ],
+      "D": [
+        "kb-1154120",
+        "kb-v2-p4-197",
+        "kb-konst-46faa81b",
+        "kb-1199640"
+      ]
+    },
+    "konstruksi01-q018": {
+      "A": [
+        "kb-konst-af34ed14",
+        "kb-konst-5d592b18",
+        "kb-konst-76920f44",
+        "kb-ext-0571-e9ab98e689",
+        "kb-ext-0600-e69c803a3a",
+        "kb-1306200",
+        "kb-1517480",
+        "kb-1241550"
+      ],
+      "B": [
+        "kb-konst-d3da7b6b",
+        "kb-konst-7bd19698",
+        "kb-konst-fa0cb9fb",
+        "kb-konst-942addff",
+        "kb-konst-d808a4dd",
+        "kb-1424550",
+        "kb-ext-1123-e7b5843a3a",
+        "kb-ext-1756-e7ab8b3a3a",
+        "kb-konst-09d03947",
+        "kb-konst-180b906c",
+        "kb-konst-bcd0531b"
+      ],
+      "C": [
+        "kb-konst-3fe39bd4",
+        "kb-konst-8482ecb1",
+        "kb-konst-80c667f0",
+        "kb-konst-416bdbfd",
+        "kb-ext-1123-e7b5843a3a",
+        "kb-ext-1756-e7ab8b3a3a",
+        "kb-konst-2c91d915",
+        "kb-konst-09d03947"
+      ],
+      "D": [
+        "kb-konst-e28e04d1",
+        "kb-konst-9c50eecf",
+        "kb-ext-latsol-0101",
+        "kb-konst-07ce00d3",
+        "kb-konst-85dafe52",
+        "kb-konst-33c6fcc4",
+        "kb-konst-9decaf96",
+        "kb-konst-09d03947",
+        "kb-ext-0382-e5bcb73a3a"
+      ]
+    },
+    "konstruksi01-q019": {
+      "A": [
+        "kb-konst-9b623231",
+        "kb-konst-75e2ff8a",
+        "kb-konst-7c62f9f2",
+        "kb-konst-94d01984",
+        "kb-konst-f342a3f7",
+        "kb-konst-3fe39bd4",
+        "kb-konst-82103db5",
+        "kb-ext-0621-e4bd9c3a3a",
+        "kb-konst-6207e433",
+        "kb-v2-p6-109",
+        "kb-konst-09d03947",
+        "kb-ext-1334-e580923a3a",
+        "kb-v2-p2-104",
+        "kb-ext-1407-e585a53a3a",
+        "kb-konst-f247c0f0"
+      ],
+      "B": [
+        "kb-konst-f1c611a5",
+        "kb-konst-b7f4f986",
+        "kb-konst-fd921b85",
+        "kb-konst-f15d377c",
+        "kb-konst-c65a88a4",
+        "kb-2647210"
+      ],
+      "C": [
+        "kb-konst-9ae7c720",
+        "kb-konst-b9efbd08",
+        "kb-konst-f15d377c",
+        "kb-konst-3dc3d6d0"
+      ],
+      "D": [
+        "kb-konst-7ff11abf",
+        "kb-konst-b888d019",
+        "kb-konst-ddacfde8",
+        "kb-ext-latsol-0097",
+        "kb-konst-666776f1",
+        "kb-ext-1756-e7ab8b3a3a"
+      ]
+    },
+    "konstruksi01-q020": {
+      "A": [
+        "kb-konst-f1c611a5",
+        "kb-1242790",
+        "kb-konst-210d8a89"
+      ],
+      "B": [
+        "kb-konst-16595479",
+        "kb-konst-77b14f0a",
+        "kb-ext-0112-e5bc953a3a",
+        "kb-ext-0259-e68e9b3a3a",
+        "kb-1266650",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-konst-c041ff74"
+      ],
+      "C": [
+        "kb-konst-92074faf",
+        "kb-konst-c944cc83",
+        "kb-v2-p6-120",
+        "kb-konst-3dc3d6d0",
+        "kb-ext-0707-e694af3a3a",
+        "kb-konst-f247c0f0"
+      ],
+      "D": [
+        "kb-konst-cdf67624",
+        "kb-ext-latsol-0074",
+        "kb-konst-32541cae",
+        "kb-konst-c944cc83",
+        "kb-1577440",
+        "kb-ext-0780-e58f963a3a",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-v2-p6-022",
+        "kb-1520380"
+      ]
+    },
+    "konstruksi01-q021": {
+      "A": [
+        "kb-konst-4d78a69f",
+        "kb-2544890",
+        "kb-konst-ad03a9cd",
+        "kb-ext-0112-e5bc953a3a",
+        "kb-ext-0259-e68e9b3a3a",
+        "kb-ext-latsol-0074",
+        "kb-1520380",
+        "kb-1218920"
+      ],
+      "B": [
+        "kb-konst-48714613",
+        "kb-konst-733b1ef0",
+        "kb-konst-845db406",
+        "kb-konst-8918f2ab",
+        "kb-v2-p6-260",
+        "kb-konst-af34ed14",
+        "kb-ext-0728-e68c813a3a",
+        "kb-konst-653acfb6"
+      ],
+      "C": [
+        "kb-konst-3586d05f",
+        "kb-konst-653acfb6",
+        "kb-konst-845db406",
+        "kb-ext-1073-e588873a3a",
+        "kb-1454180"
+      ],
+      "D": [
+        "kb-konst-4aaaed86",
+        "kb-konst-8918f2ab",
+        "kb-ext-1296-e7b7a03a3a",
+        "kb-konst-a9c86150",
+        "kb-1278070"
+      ]
+    },
+    "konstruksi01-q022": {
+      "A": [
+        "kb-konst-5b9db3f9",
+        "kb-konst-2604e0c1",
+        "kb-konst-4f14b91a",
+        "kb-konst-90efd8c2",
+        "kb-1266650"
+      ],
+      "B": [
+        "kb-konst-e0d19258",
+        "kb-konst-6fd8f3f9",
+        "kb-v2-p6-063",
+        "kb-1385120",
+        "kb-1220940",
+        "kb-ext-1123-e7b5843a3a",
+        "kb-v2-p6-155"
+      ],
+      "C": [
+        "kb-konst-ee82cc43",
+        "kb-konst-697ffeed",
+        "kb-konst-4b4070fd",
+        "kb-konst-0c144c87",
+        "kb-konst-9c91724a",
+        "kb-ext-1597-e5a4893a3a"
+      ],
+      "D": [
+        "kb-konst-4f799fd8",
+        "kb-konst-38de732f",
+        "kb-konst-d5b5a092",
+        "kb-konst-100cf8b7",
+        "kb-konst-20c5d3fd",
+        "kb-1404570"
+      ]
+    },
+    "konstruksi01-q023": {
+      "A": [
+        "kb-konst-f5d8a617",
+        "kb-konst-fb120703",
+        "kb-ext-latsol-0043",
+        "kb-v2-p6-114",
+        "kb-1278070"
+      ],
+      "B": [
+        "kb-konst-86e84e13",
+        "kb-konst-4da3ce1e",
+        "kb-konst-20b346e2",
+        "kb-konst-fb120703",
+        "kb-v2-p6-114",
+        "kb-konst-210a00b3"
+      ],
+      "C": [
+        "kb-konst-a68326ff",
+        "kb-konst-1a4c5166",
+        "kb-konst-b6e2a15f",
+        "kb-1409800"
+      ],
+      "D": [
+        "kb-konst-059a5c0c",
+        "kb-konst-103271ed",
+        "kb-konst-055013b6",
+        "kb-konst-3878cf9e",
+        "kb-konst-c738e719",
+        "kb-1199330"
+      ]
+    },
+    "konstruksi01-q024": {
+      "A": [
+        "kb-konst-d04a5146",
+        "kb-konst-e4616380",
+        "kb-v2-p6-049",
+        "kb-1385120",
+        "kb-1278070"
+      ],
+      "B": [
+        "kb-konst-4c85bf79",
+        "kb-konst-b74af4f2",
+        "kb-konst-055013b6",
+        "kb-konst-5a8c635b",
+        "kb-ext-0684-e4bdbf3a3a",
+        "kb-ext-0395-e69bb23a3a"
+      ],
+      "C": [
+        "kb-konst-2bc1b914",
+        "kb-konst-10ef099f",
+        "kb-konst-29642f01",
+        "kb-konst-f84151a9"
+      ],
+      "D": [
+        "kb-konst-8deba674",
+        "kb-ext-0112-e5bc953a3a",
+        "kb-konst-d05ae4f0",
+        "kb-konst-e53b3d07"
+      ]
+    },
+    "konstruksi01-q025": {
+      "A": [
+        "kb-konst-42c45d77",
+        "kb-konst-79881921",
+        "kb-konst-9ddec70d",
+        "kb-1513700",
+        "kb-konst-0222af40",
+        "kb-konst-006cbc3b",
+        "kb-konst-f247c0f0",
+        "kb-ext-0501-e591bc3a3a",
+        "kb-ext-1222-e7bdae3a3a"
+      ],
+      "B": [
+        "kb-konst-1f3147d4",
+        "kb-konst-54ef98f9",
+        "kb-1200220",
+        "kb-konst-20b346e2",
+        "kb-1936030",
+        "kb-1520380"
+      ],
+      "C": [
+        "kb-konst-04186b92",
+        "kb-konst-1a376a55",
+        "kb-konst-a47fee7c",
+        "kb-konst-5a58438f",
+        "kb-konst-4bd8d6cd",
+        "kb-konst-006cbc3b",
+        "kb-konst-185d56fa",
+        "kb-konst-4e8911bc",
+        "kb-konst-a8d8f95b",
+        "kb-1205920",
+        "kb-konst-f247c0f0",
+        "kb-1356690"
+      ],
+      "D": [
+        "kb-konst-2dd7cb82",
+        "kb-konst-9647e71b",
+        "kb-konst-a8d8f95b",
+        "kb-konst-1a376a55"
+      ]
+    },
+    "konstruksi01-q026": {
+      "A": [
+        "kb-konst-96e35e34",
+        "kb-konst-0222af40",
+        "kb-konst-f589598a",
+        "kb-2057810",
+        "kb-1205920",
+        "kb-v2-p6-120",
+        "kb-ext-1222-e7bdae3a3a"
+      ],
+      "B": [
+        "kb-konst-668715cb",
+        "kb-konst-54f46b66",
+        "kb-konst-fcb455c7",
+        "kb-konst-bc101310",
+        "kb-konst-f2a65ed2",
+        "kb-1200220",
+        "kb-1520380"
+      ],
+      "C": [
+        "kb-konst-6fd8f3f9",
+        "kb-konst-8afbd2e1",
+        "kb-konst-b7ea6941",
+        "kb-konst-5ca9cd57",
+        "kb-konst-a8d8f95b",
+        "kb-ext-1296-e7b7a03a3a",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-1454180"
+      ],
+      "D": [
+        "kb-konst-cf5e993e",
+        "kb-konst-978467fb",
+        "kb-konst-b1eee544",
+        "kb-konst-74e30863",
+        "kb-konst-a8d8f95b",
+        "kb-konst-5fb370fb",
+        "kb-ext-0856-e69bb83a3a"
+      ]
+    },
+    "konstruksi01-q027": {
+      "A": [
+        "kb-konst-fc91fe1e",
+        "kb-konst-e247e26b",
+        "kb-1304350",
+        "kb-konst-f56bf516",
+        "kb-konst-d987823f",
+        "kb-konst-18f6a44e",
+        "kb-konst-f50a5e27",
+        "kb-konst-c19e1679",
+        "kb-latsol-hon",
+        "kb-konst-a8d8f95b",
+        "kb-1499490",
+        "kb-ext-1139-e980813a3a",
+        "kb-ext-0837-e587ba3a3a",
+        "kb-1554010",
+        "kb-konst-8492aab6",
+        "kb-ext-0780-e58f963a3a",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-ext-0684-e4bdbf3a3a"
+      ],
+      "B": [
+        "kb-konst-53c2e649",
+        "kb-konst-23d0b0f3",
+        "kb-konst-8a181470",
+        "kb-konst-5d0a495f",
+        "kb-ext-1415-e786b13a3a",
+        "kb-ext-0837-e587ba3a3a",
+        "kb-konst-e34fba69"
+      ],
+      "C": [
+        "kb-konst-78ce5a34",
+        "kb-konst-e5b83d85",
+        "kb-konst-d70871c4"
+      ],
+      "D": [
+        "kb-konst-af15917c",
+        "kb-konst-05f4a579",
+        "kb-konst-f3c0a1b4",
+        "kb-konst-a8d8f95b",
+        "kb-ext-0112-e5bc953a3a",
+        "kb-konst-8bb68464",
+        "kb-konst-af34ed14",
+        "kb-ext-1250-e8aabf3a3a"
+      ]
+    },
+    "konstruksi01-q028": {
+      "A": [
+        "kb-konst-eaf2572d",
+        "kb-konst-d85c2c21",
+        "kb-konst-dd4d7d04",
+        "kb-konst-23d0b0f3",
+        "kb-1520380",
+        "kb-konst-a8d8f95b",
+        "kb-v2-p2-104",
+        "kb-ext-0387-e68c9f3a3a"
+      ],
+      "B": [
+        "kb-konst-51561e48",
+        "kb-konst-364ae373",
+        "kb-konst-f3c0a1b4",
+        "kb-konst-a8d8f95b",
+        "kb-ext-1250-e8aabf3a3a",
+        "kb-konst-aed2f812"
+      ],
+      "C": [
+        "kb-konst-506804d1",
+        "kb-konst-0c144c87",
+        "kb-konst-df944745",
+        "kb-konst-d70871c4",
+        "kb-konst-80af94dd",
+        "kb-1257940",
+        "kb-konst-20f7bf67",
+        "kb-konst-df30ed98",
+        "kb-konst-23d0b0f3",
+        "kb-konst-3fe39bd4",
+        "kb-1402360"
+      ],
+      "D": [
+        "kb-konst-d16f9f95",
+        "kb-konst-51936ba2",
+        "kb-konst-0bb51f52",
+        "kb-konst-df30ed98",
+        "kb-1633260",
+        "kb-ext-latsol-0097"
+      ]
+    },
+    "konstruksi01-q029": {
+      "A": [
+        "kb-konst-05b7f723",
+        "kb-1345670",
+        "kb-konst-180b906c",
+        "kb-konst-bcd0531b",
+        "kb-konst-d70871c4",
+        "kb-konst-5b2b19bb",
+        "kb-1220810"
+      ],
+      "B": [
+        "kb-konst-88b62e39",
+        "kb-konst-bbb08817",
+        "kb-konst-ee1eed93",
+        "kb-konst-fa388229",
+        "kb-v2-p6-018",
+        "kb-ext-0447-e6b1ba3a3a"
+      ],
+      "C": [
+        "kb-konst-457bd923",
+        "kb-1437970",
+        "kb-konst-8aeedd16",
+        "kb-v2-p6-011",
+        "kb-v2-p6-056",
+        "kb-v2-p6-275",
+        "kb-konst-7f6e8340"
+      ],
+      "D": [
+        "kb-konst-e6ea73e3",
+        "kb-konst-c02568eb",
+        "kb-konst-727e64f6",
+        "kb-konst-fa388229",
+        "kb-konst-9917ee75",
+        "kb-konst-34d2a551",
+        "kb-1243040",
+        "kb-ext-0684-e4bdbf3a3a",
+        "kb-konst-bcd0531b",
+        "kb-ext-0560-e8a18c3a3a",
+        "kb-ext-0501-e591bc3a3a"
+      ]
+    },
+    "konstruksi01-q030": {
+      "A": [
+        "kb-konst-2744d677",
+        "kb-1485540",
+        "kb-konst-1ad8918a",
+        "kb-konst-af7671f3",
+        "kb-konst-4d51eb75",
+        "kb-konst-e1897105",
+        "kb-konst-f5dda7a6",
+        "kb-konst-f91f249c",
+        "kb-konst-96b90020",
+        "kb-1296670",
+        "kb-konst-1a5470c3"
+      ],
+      "B": [
+        "kb-konst-bc685dc8",
+        "kb-konst-db66a317",
+        "kb-konst-b51028ad",
+        "kb-konst-d1da6098",
+        "kb-1437970",
+        "kb-ext-0983-e590b93a3a",
+        "kb-ext-1541-e4bb983a3a"
+      ],
+      "C": [
+        "kb-konst-dd9ae688",
+        "kb-konst-0a26dbe4",
+        "kb-konst-0ca921b3",
+        "kb-konst-93086762",
+        "kb-1513530",
+        "kb-konst-6207e433"
+      ],
+      "D": [
+        "kb-konst-647edd0c",
+        "kb-konst-8e535552",
+        "kb-konst-5a728d3b",
+        "kb-konst-1a5470c3",
+        "kb-konst-1a376a55",
+        "kb-konst-f5810d23",
+        "kb-ext-1326-e5a1973a3a",
+        "kb-1583930"
+      ]
+    },
+    "konstruksi01-q031": {
+      "A": [
+        "kb-konst-f0081477",
+        "kb-konst-5e5d7954",
+        "kb-konst-347023ad",
+        "kb-ext-0621-e4bd9c3a3a",
+        "kb-konst-fb00fc86",
+        "kb-konst-f0beff9c"
+      ],
+      "B": [
+        "kb-konst-c8e3f554",
+        "kb-konst-a5659633",
+        "kb-konst-1a376a55",
+        "kb-1577440",
+        "kb-ext-1276-e9809a3a3a"
+      ],
+      "C": [
+        "kb-konst-d5af5cf2",
+        "kb-konst-4f93debb",
+        "kb-konst-1974aa2a",
+        "kb-konst-169ef4cb",
+        "kb-konst-7f14bb98",
+        "kb-konst-144963d4",
+        "kb-konst-35e0c281",
+        "kb-konst-94c79ecf",
+        "kb-konst-e8cc2ae9",
+        "kb-1205920",
+        "kb-konst-1a376a55",
+        "kb-v2-p2-104",
+        "kb-ext-1407-e585a53a3a",
+        "kb-konst-f247c0f0",
+        "kb-konst-4ff131e8",
+        "kb-1577440",
+        "kb-ext-0780-e58f963a3a",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-ext-1653-e998b23a3a"
+      ],
+      "D": [
+        "kb-konst-cb7e0608",
+        "kb-konst-8e535552",
+        "kb-1165880",
+        "kb-2057810",
+        "kb-1437970",
+        "kb-1306200"
+      ]
+    },
+    "konstruksi01-q032": {
+      "A": [
+        "kb-konst-861375e1",
+        "kb-konst-7768a607",
+        "kb-konst-4da6f849",
+        "kb-konst-1a376a55",
+        "kb-konst-9fff208e",
+        "kb-ext-0165-e4b88b3a3a",
+        "kb-ext-0684-e4bdbf3a3a"
+      ],
+      "B": [
+        "kb-konst-1217181e",
+        "kb-konst-0173c1e4",
+        "kb-konst-3537e287",
+        "kb-konst-f46c0e0c",
+        "kb-konst-3f4bc86c",
+        "kb-konst-d70329df",
+        "kb-1306200",
+        "kb-konst-7768a607",
+        "kb-konst-f8e13517",
+        "kb-konst-f15d377c",
+        "kb-ext-1756-e7ab8b3a3a",
+        "kb-v2-p6-043"
+      ],
+      "C": [
+        "kb-konst-b8a237ba",
+        "kb-konst-16fb4fcd",
+        "kb-konst-8a36d745",
+        "kb-1306200",
+        "kb-konst-f247c0f0"
+      ],
+      "D": [
+        "kb-konst-fdbd899b",
+        "kb-konst-5e5d7954",
+        "kb-1306200",
+        "kb-konst-f247c0f0",
+        "kb-konst-898308cf"
+      ]
+    },
+    "konstruksi01-q033": {
+      "A": [
+        "kb-v2-p6-202",
+        "kb-konst-e2018cd7",
+        "kb-konst-e65df3bf",
+        "kb-konst-fd5ab442",
+        "kb-1429200",
+        "kb-ext-0112-e5bc953a3a",
+        "kb-konst-8bb68464",
+        "kb-konst-1a376a55",
+        "kb-1218920"
+      ],
+      "B": [
+        "kb-konst-4b4070fd",
+        "kb-konst-1a376a55",
+        "kb-v2-p6-094",
+        "kb-konst-24d5b3bd",
+        "kb-1278070"
+      ],
+      "C": [
+        "kb-konst-2805c48d",
+        "kb-konst-7e05c456",
+        "kb-konst-a9c86150",
+        "kb-1297540",
+        "kb-1306200",
+        "kb-1278070"
+      ],
+      "D": [
+        "kb-konst-c15335fe",
+        "kb-konst-5d4b8102",
+        "kb-konst-1a376a55",
+        "kb-ext-0621-e4bd9c3a3a",
+        "kb-ext-0684-e4bdbf3a3a"
+      ]
+    },
+    "konstruksi01-q034": {
+      "A": [
+        "kb-konst-47145240",
+        "kb-konst-b7a1ad14",
+        "kb-konst-8ddb2ea7",
+        "kb-konst-fa8218af",
+        "kb-u1416-f97f177453",
+        "kb-ext-1284-e4bd8e3a3a",
+        "kb-1633260",
+        "kb-2647210"
+      ],
+      "B": [
+        "kb-konst-40590d36",
+        "kb-ext-1094-e6b497e6b5",
+        "kb-konst-8c3956a3",
+        "kb-konst-23da87d8",
+        "kb-ext-0675-e6ae8b3a3a",
+        "kb-v2-p6-016",
+        "kb-ext-1757-e6b5813a3a"
+      ],
+      "C": [
+        "kb-konst-4ed7e735",
+        "kb-konst-d5804ef4",
+        "kb-konst-17f97667",
+        "kb-ext-1162-e689933a3a",
+        "kb-v2-p6-155",
+        "kb-1355850",
+        "kb-konst-c65a88a4"
+      ],
+      "D": [
+        "kb-konst-c23a7be9",
+        "kb-konst-a7446bd3",
+        "kb-konst-5f0b2b3a",
+        "kb-ext-0078-e795b0e789",
+        "kb-konst-d8504925",
+        "kb-konst-d16124ad",
+        "kb-v2-p6-006",
+        "kb-ext-0794-e58f973a3a",
+        "kb-ext-0780-e58f963a3a",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-ext-0235-e9968b3a3a",
+        "kb-1318470",
+        "kb-ext-1491-e582993a3a"
+      ]
+    },
+    "konstruksi01-q035": {
+      "A": [
+        "kb-konst-702335c8",
+        "kb-konst-d16f9f95",
+        "kb-konst-a4045887",
+        "kb-konst-51936ba2",
+        "kb-konst-2c26082d",
+        "kb-konst-ec175183",
+        "kb-1490580",
+        "kb-1205900",
+        "kb-ext-1500-e5bf853a3a",
+        "kb-ext-0560-e8a18c3a3a",
+        "kb-ext-0242-e5a4963a3a",
+        "kb-ext-1284-e4bd8e3a3a",
+        "kb-v2-p6-071",
+        "kb-1633260",
+        "kb-ext-1145-e6b8ac3a3a"
+      ],
+      "B": [
+        "kb-konst-b87e6add",
+        "kb-konst-d587a4b9",
+        "kb-konst-b07540af",
+        "kb-konst-07689622",
+        "kb-ext-0889-e4b88a3a3a",
+        "kb-ext-0189-e58aa03a3a",
+        "kb-1538220"
+      ],
+      "C": [
+        "kb-konst-5b8723ef",
+        "kb-v2-p6-016",
+        "kb-1480210",
+        "kb-ext-1500-e5bf853a3a",
+        "kb-konst-b5c10b8a",
+        "kb-ext-0506-e59bba3a3a"
+      ],
+      "D": [
+        "kb-konst-ae440bbe",
+        "kb-konst-ec175183",
+        "kb-1211510",
+        "kb-ext-0506-e59bba3a3a",
+        "kb-v2-p6-010",
+        "kb-konst-6d970ef9"
+      ]
+    },
+    "konstruksi01-q036": {
+      "A": [
+        "kb-konst-a0469aaf"
+      ],
+      "B": [
+        "kb-konst-2bae7f2c"
+      ],
+      "C": [
+        "kb-konst-980cc8c9"
+      ],
+      "D": [
+        "kb-konst-cbff7694"
+      ]
+    },
+    "konstruksi01-q037": {
+      "A": [
+        "kb-konst-af8991d4",
+        "kb-konst-07f58801",
+        "kb-1513530",
+        "kb-konst-db86ed37",
+        "kb-konst-3c64550b",
+        "kb-ext-0549-e5ba833a3a",
+        "kb-1533500",
+        "kb-1499490",
+        "kb-konst-e2e732bc",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-1355850",
+        "kb-ext-0684-e4bdbf3a3a"
+      ],
+      "B": [
+        "kb-1253790",
+        "kb-konst-054cb41a",
+        "kb-1245470",
+        "kb-ext-1408-e585a53a3a",
+        "kb-v2-p6-054",
+        "kb-ext-0153-e68abc3a3a",
+        "kb-ext-1312-e8b2bc3a3a"
+      ],
+      "C": [
+        "kb-konst-4675ba4e",
+        "kb-ext-0506-e59bba3a3a",
+        "kb-ext-1734-e6bab63a3a",
+        "kb-konst-9b936603"
+      ],
+      "D": [
+        "kb-konst-f108b801",
+        "kb-konst-732ef593",
+        "kb-konst-e0d19258",
+        "kb-konst-f0bff7b8",
+        "kb-ext-0983-e590b93a3a",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-1454180"
+      ]
+    },
+    "konstruksi01-q038": {
+      "A": [
+        "kb-konst-5a24300b",
+        "kb-konst-b9301cf9",
+        "kb-1199640",
+        "kb-v2-p6-049",
+        "kb-1385120"
+      ],
+      "B": [
+        "kb-konst-91eec3ba",
+        "kb-konst-02285a5c",
+        "kb-konst-bffa4ea0",
+        "kb-konst-facd2231",
+        "kb-konst-ab47bf2f",
+        "kb-ext-1073-e588873a3a",
+        "kb-1524610",
+        "kb-v2-p6-049",
+        "kb-1158400",
+        "kb-konst-06a6f8e9",
+        "kb-1454180"
+      ],
+      "C": [
+        "kb-konst-3670b94a",
+        "kb-konst-b446cbc3",
+        "kb-konst-917c946e",
+        "kb-konst-3a0212e0",
+        "kb-ext-1073-e588873a3a",
+        "kb-konst-1b0f07a4"
+      ],
+      "D": [
+        "kb-konst-deecd396",
+        "kb-konst-0b29c926",
+        "kb-konst-32c8f664",
+        "kb-1443220",
+        "kb-ext-0684-e4bdbf3a3a",
+        "kb-1553660",
+        "kb-ext-1011-e695b43a3a"
+      ]
+    },
+    "konstruksi01-q039": {
+      "A": [
+        "kb-konst-41435cbf",
+        "kb-konst-1a86a758",
+        "kb-konst-998dfe8d",
+        "kb-konst-e2e732bc",
+        "kb-konst-84fb09fc"
+      ],
+      "B": [
+        "kb-konst-591e458e",
+        "kb-konst-a0d7866a",
+        "kb-konst-27ce5049",
+        "kb-konst-e9d92860",
+        "kb-ext-0260-e589b23a3a",
+        "kb-konst-84fb09fc"
+      ],
+      "C": [
+        "kb-konst-e6ce8c86",
+        "kb-konst-92d75dca",
+        "kb-v2-p6-017",
+        "kb-v2-p6-264",
+        "kb-konst-7fe3fa22"
+      ],
+      "D": [
+        "kb-konst-2d9ee298",
+        "kb-konst-5cc41ca5",
+        "kb-konst-5f0f6a60",
+        "kb-konst-e7b1039c",
+        "kb-konst-46a15a8f",
+        "kb-konst-18f591e4",
+        "kb-konst-80c667f0",
+        "kb-1385120",
+        "kb-konst-416bdbfd",
+        "kb-ext-0684-e4bdbf3a3a",
+        "kb-ext-1283-e987a33a3a",
+        "kb-konst-2206f8b5"
+      ]
+    },
+    "konstruksi01-q040": {
+      "A": [
+        "kb-konst-899a2869",
+        "kb-konst-8652df08",
+        "kb-konst-87721fed",
+        "kb-ext-latsol-0099",
+        "kb-ext-1597-e5a4893a3a",
+        "kb-konst-4f799fd8",
+        "kb-ext-0189-e58aa03a3a",
+        "kb-konst-b8d8fbb5",
+        "kb-ext-0780-e58f963a3a",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-1499490",
+        "kb-2229780"
+      ],
+      "B": [
+        "kb-konst-3418775e",
+        "kb-1451900",
+        "kb-ext-0780-e58f963a3a",
+        "kb-ext-1541-e4bb983a3a",
+        "kb-konst-6207e433",
+        "kb-1211510"
+      ],
+      "C": [
+        "kb-konst-a652de9b",
+        "kb-konst-807a8d90",
+        "kb-ext-0776-e5bcb13a3a",
+        "kb-ext-0728-e68c813a3a"
+      ],
+      "D": [
+        "kb-konst-15fdd0b5",
+        "kb-konst-9744fd06",
+        "kb-konst-ba976b8b",
+        "kb-konst-e53b3d07",
+        "kb-ext-0684-e4bdbf3a3a",
+        "kb-1406150"
+      ]
+    },
+    "konstruksi01-q041": {
+      "A": [
+        "kb-konst-9f633b01",
+        "kb-konst-6cbde156",
+        "kb-konst-93ad5c44",
+        "kb-konst-f7ce094b",
+        "kb-konst-3b227e82",
+        "kb-1243040",
+        "kb-1385120",
+        "kb-ext-0684-e4bdbf3a3a"
+      ],
+      "B": [
+        "kb-ext-0632-e4bd9ce6a5",
+        "kb-1633260",
+        "kb-latsol-3c480a52b2",
+        "kb-1153930",
+        "kb-konst-845db406",
+        "kb-ext-0236-e9968b3a3a",
+        "kb-1266650"
+      ],
+      "C": [
+        "kb-konst-7b83483b",
+        "kb-konst-fa8ac168",
+        "kb-konst-feb537d3",
+        "kb-v2-p1-014",
+        "kb-1296670",
+        "kb-v2-p6-063",
+        "kb-ext-1357-e5838d3a3a",
+        "kb-latsol-3c480a52b2",
+        "kb-ext-1015-e6ada33a3a",
+        "kb-1451350",
+        "kb-1205900"
+      ],
+      "D": [
+        "kb-konst-e4621124",
+        "kb-konst-4a1ffd80",
+        "kb-v2-p6-049",
+        "kb-konst-31c78938"
+      ]
+    },
+    "konstruksi01-q042": {
+      "A": [
+        "kb-konst-35c5bd50",
+        "kb-konst-317d00f5",
+        "kb-konst-8b4282e4",
+        "kb-konst-50414fd1",
+        "kb-konst-d64a2ee7",
+        "kb-v2-p6-058",
+        "kb-ext-0728-e68c813a3a",
+        "kb-ext-0889-e4b88a3a3a",
+        "kb-ext-0684-e4bdbf3a3a",
+        "kb-1371120"
+      ],
+      "B": [
+        "kb-konst-abdff25f",
+        "kb-konst-19f61e7c",
+        "kb-konst-a9dd582a",
+        "kb-1324940",
+        "kb-v2-p6-063",
+        "kb-konst-53e6c820",
+        "kb-ext-0382-e5bcb73a3a",
+        "kb-1533500",
+        "kb-2082140",
+        "kb-konst-5b2b19bb",
+        "kb-ext-0863-e5b08f3a3a",
+        "kb-1506890",
+        "kb-konst-594b0194",
+        "kb-konst-5fb370fb",
+        "kb-ext-latsol-0083"
+      ],
+      "C": [
+        "kb-konst-d2ab91f4",
+        "kb-konst-cca1fcf8",
+        "kb-v2-p6-254",
+        "kb-konst-77d765e8",
+        "kb-konst-f57d371f",
+        "kb-2647210"
+      ],
+      "D": [
+        "kb-konst-8f1d9c73",
+        "kb-konst-ffe4bdc3",
+        "kb-konst-3ffb4cb1",
+        "kb-ext-1756-e7ab8b3a3a",
+        "kb-konst-badd2de7",
+        "kb-v2-p6-094",
+        "kb-konst-ef41c2bf",
+        "kb-v2-p6-017",
+        "kb-ext-0837-e587ba3a3a",
+        "kb-konst-6676efd4"
+      ]
+    },
+    "konstruksi01-q043": {
+      "A": [
+        "kb-konst-ae7903c1",
+        "kb-konst-f7393a83",
+        "kb-konst-10b89a7b",
+        "kb-konst-00b7b51b",
+        "kb-konst-6a4841c5",
+        "kb-v2-p6-054",
+        "kb-konst-2d97b84e",
+        "kb-konst-9d72a737",
+        "kb-1496400",
+        "kb-1454180"
+      ],
+      "B": [
+        "kb-konst-a10e36e7",
+        "kb-1272780",
+        "kb-ext-latsol-0056",
+        "kb-konst-5e2ab6e1",
+        "kb-2256270"
+      ],
+      "C": [
+        "kb-konst-a46a4f13",
+        "kb-konst-20e3b474",
+        "kb-konst-be99811e",
+        "kb-konst-ac85d6ce",
+        "kb-1376760",
+        "kb-ext-1378-e8aaad3a3a",
+        "kb-ext-0780-e58f963a3a",
+        "kb-1513530",
+        "kb-ext-0242-e5a4963a3a",
+        "kb-1441540"
+      ],
+      "D": [
+        "kb-konst-fce40292",
+        "kb-konst-961b4a3c",
+        "kb-konst-fb68af74",
+        "kb-konst-155d1a91",
+        "kb-v2-p1-015",
+        "kb-1272780",
+        "kb-v2-p6-026",
+        "kb-konst-20c5d3fd",
+        "kb-konst-b9efbd08",
+        "kb-ext-0837-e587ba3a3a",
+        "kb-1220810",
+        "kb-ext-latsol-0056",
+        "kb-konst-5e2ab6e1",
+        "kb-konst-9c7caea6",
+        "kb-1355850",
+        "kb-konst-b9a9b2b1",
+        "kb-v2-p6-101",
+        "kb-konst-f4faa7ce",
+        "kb-konst-3cb9fa57"
+      ]
+    },
+    "konstruksi01-q044": {
+      "A": [
+        "kb-konst-317e25d1",
+        "kb-konst-ccd719ad",
+        "kb-konst-ad9fe3f2",
+        "kb-konst-79ffaca0",
+        "kb-konst-f2182d8c",
+        "kb-konst-c0f17ea6",
+        "kb-1297540",
+        "kb-1487660",
+        "kb-1633260",
+        "kb-ext-0837-e587ba3a3a",
+        "kb-1220810",
+        "kb-1318470",
+        "kb-konst-20c5d3fd",
+        "kb-1220940",
+        "kb-ext-0728-e68c813a3a",
+        "kb-ext-1123-e7b5843a3a",
+        "kb-ext-0576-e590883a3a",
+        "kb-konst-b6e2a15f",
+        "kb-konst-8492aab6",
+        "kb-konst-5058d049"
+      ],
+      "B": [
+        "kb-konst-acdffe2e",
+        "kb-konst-dfe0d20c",
+        "kb-konst-df944745",
+        "kb-konst-cc9c5cc1"
+      ],
+      "C": [
+        "kb-konst-d89ce649",
+        "kb-konst-dbdfc726",
+        "kb-konst-8958c615",
+        "kb-ext-1067-e7a98d3a3a",
+        "kb-konst-e2e732bc",
+        "kb-ext-0951-e4bcb83a3a",
+        "kb-konst-6a4841c5"
+      ],
+      "D": [
+        "kb-konst-6fabae84",
+        "kb-konst-b6e2a15f",
+        "kb-1404570",
+        "kb-1633260",
+        "kb-konst-54f46b66",
+        "kb-1218920"
+      ]
+    },
+    "konstruksi01-q045": {
+      "A": [
+        "kb-konst-765e37ec",
+        "kb-konst-84de1d59",
+        "kb-konst-f984a374",
+        "kb-ext-0621-e4bd9c3a3a",
+        "kb-ext-0684-e4bdbf3a3a"
+      ],
+      "B": [
+        "kb-konst-38de732f",
+        "kb-konst-5a59e73a",
+        "kb-ext-0165-e4b88b3a3a",
+        "kb-ext-0960-e68caf3a3a",
+        "kb-ext-1408-e585a53a3a",
+        "kb-1587310",
+        "kb-2256270",
+        "kb-konst-998dfe8d",
+        "kb-1205900",
+        "kb-1454180"
+      ],
+      "C": [
+        "kb-konst-4eb2b7af",
+        "kb-konst-d9aefdf4",
+        "kb-konst-fe3b697c",
+        "kb-konst-3bb9db8f",
+        "kb-konst-809ab4bf",
+        "kb-konst-c29fb1f3",
+        "kb-2647210",
+        "kb-ext-1145-e6b8ac3a3a",
+        "kb-konst-e00e18dd",
+        "kb-1454180",
+        "kb-1489880",
+        "kb-konst-57e385fb",
+        "kb-konst-99476cad",
+        "kb-ext-0684-e4bdbf3a3a",
+        "kb-konst-f984a374",
+        "kb-ext-0621-e4bd9c3a3a",
+        "kb-v2-p4-090"
+      ],
+      "D": [
+        "kb-konst-953e0c69",
+        "kb-konst-f627c18c",
+        "kb-ext-0271-e5b7bb3a3a",
+        "kb-konst-ad9f4b04",
+        "kb-konst-e00e18dd",
+        "kb-1306200"
+      ]
+    },
+    "konstruksi01-q046": {
+      "A": [
+        "kb-konst-44e76c51",
+        "kb-konst-46b48b4c",
+        "kb-konst-9259d802",
+        "kb-konst-575bd8d0",
+        "kb-konst-c65ac133",
+        "kb-konst-37870ec7",
+        "kb-konst-1c2614f4",
+        "kb-konst-20b346e2",
+        "kb-konst-7a66a781",
+        "kb-konst-5e5d7954",
+        "kb-konst-1a376a55",
+        "kb-2082140",
+        "kb-ext-0684-e4bdbf3a3a",
+        "kb-konst-ea35514f",
+        "kb-ext-0863-e5b08f3a3a"
+      ],
+      "B": [
+        "kb-konst-b93fc95c",
+        "kb-konst-ea35514f",
+        "kb-2082140",
+        "kb-v2-p6-101",
+        "kb-ext-0863-e5b08f3a3a",
+        "kb-konst-129a2997"
+      ],
+      "C": [
+        "kb-konst-44163fa5",
+        "kb-1296670",
+        "kb-2082140",
+        "kb-v2-p6-056",
+        "kb-konst-2d7d5730",
+        "kb-konst-1a376a55",
+        "kb-konst-6d970ef9",
+        "kb-1297540",
+        "kb-ext-0684-e4bdbf3a3a"
+      ],
+      "D": [
+        "kb-konst-319e1e58",
+        "kb-konst-5ea1b1e4",
+        "kb-konst-8244111d",
+        "kb-v2-p6-101",
+        "kb-1355810",
+        "kb-konst-6d970ef9",
+        "kb-ext-0260-e589b23a3a",
+        "kb-ext-1747-e890bd3a3a"
+      ]
+    },
+    "konstruksi01-q047": {
+      "A": [
+        "kb-konst-8cb481e7",
+        "kb-konst-733deb62",
+        "kb-konst-409cee8b",
+        "kb-konst-c59bd1c9",
+        "kb-1271750",
+        "kb-1199330"
+      ],
+      "B": [
+        "kb-konst-29cb64cc",
+        "kb-1199330",
+        "kb-v2-p6-120",
+        "kb-konst-20b346e2",
+        "kb-ext-0382-e5bcb73a3a",
+        "kb-v2-p6-063",
+        "kb-konst-e814cadd"
+      ],
+      "C": [
+        "kb-konst-54711f13",
+        "kb-konst-ecf52dcb",
+        "kb-konst-5e5d7954",
+        "kb-ext-1073-e588873a3a",
+        "kb-v2-p6-155"
+      ],
+      "D": [
+        "kb-konst-ee82cc43",
+        "kb-konst-697ffeed",
+        "kb-konst-b8e90e1b",
+        "kb-konst-55cc34d0",
+        "kb-1499490",
+        "kb-konst-ee1eed93",
+        "kb-v2-p6-063",
+        "kb-1199330",
+        "kb-konst-5e5d7954",
+        "kb-ext-0230-e5a38a3a3a",
+        "kb-ext-0576-e590883a3a",
+        "kb-ext-0684-e4bdbf3a3a"
+      ]
+    },
+    "konstruksi01-q048": {
+      "A": [
+        "kb-konst-187c40d1",
+        "kb-konst-d8a35040",
+        "kb-1297540",
+        "kb-konst-5933625b",
+        "kb-1896380",
+        "kb-ext-0780-e58f963a3a",
+        "kb-v2-p6-016",
+        "kb-konst-c738e719",
+        "kb-konst-8a181470",
+        "kb-ext-0879-e784bc3a3a"
+      ],
+      "B": [
+        "kb-konst-4a0f44c5",
+        "kb-konst-cabc15b0",
+        "kb-konst-3048edb2",
+        "kb-konst-20dc3125",
+        "kb-konst-c20a7e2c",
+        "kb-konst-129a2997",
+        "kb-konst-5b286fab",
+        "kb-konst-b92ae358",
+        "kb-ext-0684-e4bdbf3a3a"
+      ],
+      "C": [
+        "kb-1368670",
+        "kb-konst-6001ac5e",
+        "kb-konst-9164cf3a",
+        "kb-v2-p3-329",
+        "kb-konst-86f49408",
+        "kb-konst-622289bd",
+        "kb-konst-ad03a9cd",
+        "kb-konst-0983af2a",
+        "kb-ext-latsol-0074",
+        "kb-konst-93efe62e",
+        "kb-ext-0147-e6b19a3a3a",
+        "kb-v2-p3-155"
+      ],
+      "D": [
+        "kb-konst-3128f1ea",
+        "kb-konst-76727ee8",
+        "kb-v2-p6-016",
+        "kb-ext-1407-e585a53a3a",
+        "kb-ext-0120-e9818b3a3a",
+        "kb-1545370"
+      ]
+    },
+    "konstruksi01-q049": {
+      "A": [
+        "kb-konst-b719fc23",
+        "kb-konst-451c8b62",
+        "kb-konst-13657789",
+        "kb-konst-0feb3f3f",
+        "kb-ext-0780-e58f963a3a",
+        "kb-v2-p6-025",
+        "kb-konst-4df2402f",
+        "kb-ext-0112-e5bc953a3a",
+        "kb-konst-8bb68464",
+        "kb-1454180"
+      ],
+      "B": [
+        "kb-konst-d0d19459",
+        "kb-konst-e3a66294",
+        "kb-konst-40293261",
+        "kb-konst-de23db55",
+        "kb-konst-97d82132",
+        "kb-konst-451c8b62",
+        "kb-konst-13657789",
+        "kb-konst-0feb3f3f",
+        "kb-konst-4df2402f",
+        "kb-konst-1bf59545",
+        "kb-ext-0684-e4bdbf3a3a",
+        "kb-1324940",
+        "kb-ext-0120-e9818b3a3a"
+      ],
+      "C": [
+        "kb-konst-bcd245b6",
+        "kb-konst-6b6382d5",
+        "kb-1324940",
+        "kb-1158400",
+        "kb-konst-cc5f4bfc",
+        "kb-v2-p6-011",
+        "kb-v2-p6-022",
+        "kb-ext-1313-e8bba23a3a"
+      ],
+      "D": [
+        "kb-konst-7648acf1",
+        "kb-konst-ca972f1f",
+        "kb-konst-8036b065",
+        "kb-ext-0571-e9ab98e689",
+        "kb-2544890",
+        "kb-ext-0259-e68e9b3a3a",
+        "kb-konst-2b68edbd"
+      ]
+    },
+    "konstruksi01-q050": {
+      "A": [
+        "kb-2424850",
+        "kb-konst-f256a046",
+        "kb-1226890",
+        "kb-ext-0684-e4bdbf3a3a",
+        "kb-1633260",
+        "kb-konst-91c3146f",
+        "kb-konst-f7b33443",
+        "kb-konst-91a83b84",
+        "kb-1297540"
+      ],
+      "B": [
+        "kb-konst-3da53dcf",
+        "kb-konst-b6e2a15f",
+        "kb-v2-p6-500",
+        "kb-ext-1500-e5bf853a3a",
+        "kb-1576150",
+        "kb-1297540"
+      ],
+      "C": [
+        "kb-konst-1865ea7b",
+        "kb-konst-6a17df3c",
+        "kb-konst-b6e2a15f",
+        "kb-ext-1500-e5bf853a3a",
+        "kb-ext-0707-e694af3a3a",
+        "kb-1163400",
+        "kb-1297540",
+        "kb-1226890",
+        "kb-2424850",
+        "kb-konst-0d4bc94e",
+        "kb-v2-p6-011"
+      ],
+      "D": [
+        "kb-konst-7b882a7a",
+        "kb-konst-b9966739",
+        "kb-konst-6d3afb13",
+        "kb-v2-p6-011",
+        "kb-u1416-b5f0f70d8d",
+        "kb-ext-0382-e5bcb73a3a",
+        "kb-ext-0153-e68abc3a3a",
+        "kb-1619700",
+        "kb-1218630"
+      ]
+    }
+  },
+  "byCompositeKey": {
+    "konstruksi01-q001::A": [
+      "kb-konst-080b36e6",
+      "kb-konst-a935ae9b",
+      "kb-konst-b719fc23",
+      "kb-1451350",
+      "kb-konst-900ea946",
+      "kb-konst-dff5beb5",
+      "kb-konst-98531c1f",
+      "kb-konst-539607d7",
+      "kb-konst-b19c2bf8",
+      "kb-konst-0ebeb531",
+      "kb-konst-cca45764",
+      "kb-1511040",
+      "kb-ext-0560-e8a18c3a3a"
+    ],
+    "konstruksi01-q001::B": [
+      "kb-konst-48955f50",
+      "kb-konst-322f245a",
+      "kb-konst-3807ca53",
+      "kb-1587310",
+      "kb-konst-728fad49",
+      "kb-ext-1284-e4bd8e3a3a",
+      "kb-konst-98531c1f"
+    ],
+    "konstruksi01-q001::C": [
+      "kb-konst-20b346e2",
+      "kb-1220940",
+      "kb-konst-e97929bf",
+      "kb-1264670",
+      "kb-konst-5a8c635b",
+      "kb-1511040",
+      "kb-1306200"
+    ],
+    "konstruksi01-q001::D": [
+      "kb-konst-19c8ac83",
+      "kb-konst-1be7c375",
+      "kb-konst-dbe6d283",
+      "kb-konst-611b4cc2",
+      "kb-konst-0731fbcb",
+      "kb-ext-0560-e8a18c3a3a",
+      "kb-1220810"
+    ],
+    "konstruksi01-q002::A": [
+      "kb-konst-3789a088",
+      "kb-konst-2912dbcc",
+      "kb-konst-b2df5ce1",
+      "kb-konst-f8c6c30c",
+      "kb-konst-69f7f8ab",
+      "kb-ext-0728-e68c813a3a",
+      "kb-1220810"
+    ],
+    "konstruksi01-q002::B": [
+      "kb-konst-180b1d05",
+      "kb-1394080",
+      "kb-konst-929d407a",
+      "kb-konst-1be7c375",
+      "kb-1402380",
+      "kb-konst-c20a7e2c",
+      "kb-konst-528dc160",
+      "kb-konst-3c828234",
+      "kb-konst-1438e24c",
+      "kb-konst-a811e2df",
+      "kb-konst-2912dbcc",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-1220810"
+    ],
+    "konstruksi01-q002::C": [
+      "kb-1392910",
+      "kb-konst-7e1a4f0b",
+      "kb-konst-fc6ec4ab",
+      "kb-konst-8ae5718f",
+      "kb-konst-645047a0",
+      "kb-konst-6ba76eff",
+      "kb-v2-p2-104",
+      "kb-ext-1491-e582993a3a",
+      "kb-1220810"
+    ],
+    "konstruksi01-q002::D": [
+      "kb-1195370",
+      "kb-konst-3026690d",
+      "kb-konst-0281cf4c",
+      "kb-konst-c25c8abf",
+      "kb-konst-b08ea8a5",
+      "kb-konst-c20a7e2c"
+    ],
+    "konstruksi01-q003::A": [
+      "kb-konst-dd3282d7",
+      "kb-konst-84fb09fc",
+      "kb-konst-b5332c26"
+    ],
+    "konstruksi01-q003::B": [
+      "kb-konst-59625864",
+      "kb-konst-98830e1b"
+    ],
+    "konstruksi01-q003::C": [
+      "kb-konst-9539baa3",
+      "kb-konst-5b2b19bb",
+      "kb-konst-53e6c820",
+      "kb-1220810"
+    ],
+    "konstruksi01-q003::D": [
+      "kb-konst-d518a887",
+      "kb-v2-p5-321",
+      "kb-1220810"
+    ],
+    "konstruksi01-q004::A": [
+      "kb-konst-f077c487",
+      "kb-konst-ae99e9d3",
+      "kb-konst-604ab9cd",
+      "kb-konst-4fc3fb05"
+    ],
+    "konstruksi01-q004::B": [
+      "kb-konst-98531c1f",
+      "kb-konst-241be892",
+      "kb-konst-cdfd540c",
+      "kb-konst-75df8c94"
+    ],
+    "konstruksi01-q004::C": [
+      "kb-konst-65443da9",
+      "kb-konst-041b1f52",
+      "kb-konst-2d73736a",
+      "kb-konst-8428aaa8"
+    ],
+    "konstruksi01-q004::D": [
+      "kb-konst-3be34dea",
+      "kb-konst-dfd56287",
+      "kb-konst-f4107804",
+      "kb-konst-9bd9057d"
+    ],
+    "konstruksi01-q005::A": [
+      "kb-konst-bd9c18af",
+      "kb-konst-00246e3c",
+      "kb-konst-10d88640",
+      "kb-konst-2c3a1aac",
+      "kb-konst-02b1e0ae",
+      "kb-1406150"
+    ],
+    "konstruksi01-q005::B": [
+      "kb-konst-a8f16cfa",
+      "kb-konst-c61ebf10",
+      "kb-konst-22af0f3b",
+      "kb-konst-5c607fea",
+      "kb-konst-f077c487",
+      "kb-konst-528dc160",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-1220810"
+    ],
+    "konstruksi01-q005::C": [
+      "kb-konst-cdb43668",
+      "kb-konst-e01e7bda",
+      "kb-v2-p6-205",
+      "kb-konst-39e8feeb",
+      "kb-konst-05dea1a3",
+      "kb-1158400",
+      "kb-ext-1491-e582993a3a"
+    ],
+    "konstruksi01-q005::D": [
+      "kb-konst-c0410be2",
+      "kb-konst-82103db5",
+      "kb-1199640",
+      "kb-konst-1a4f34a3",
+      "kb-ext-0501-e591bc3a3a",
+      "kb-ext-0153-e68abc3a3a",
+      "kb-v2-p6-155",
+      "kb-1220810"
+    ],
+    "konstruksi01-q006::A": [
+      "kb-konst-f397a1aa",
+      "kb-konst-bfcb9370",
+      "kb-konst-fad060a3"
+    ],
+    "konstruksi01-q006::B": [
+      "kb-konst-91acd904",
+      "kb-konst-3026690d",
+      "kb-konst-c25c8abf",
+      "kb-1195370",
+      "kb-konst-e01e7bda"
+    ],
+    "konstruksi01-q006::C": [
+      "kb-konst-e217ede2",
+      "kb-konst-84b1a119"
+    ],
+    "konstruksi01-q006::D": [
+      "kb-konst-8302abad"
+    ],
+    "konstruksi01-q007::A": [
+      "kb-konst-3688fa35",
+      "kb-konst-b2a064b8",
+      "kb-konst-c06886fd",
+      "kb-konst-5feecaaa",
+      "kb-konst-d70871c4",
+      "kb-1386070"
+    ],
+    "konstruksi01-q007::B": [
+      "kb-konst-34ce8058",
+      "kb-konst-112511c0",
+      "kb-konst-42efb4dd",
+      "kb-konst-76a88c1a",
+      "kb-konst-89796fbf"
+    ],
+    "konstruksi01-q007::C": [
+      "kb-konst-756a0ba2",
+      "kb-konst-dc752f83",
+      "kb-konst-a21060b7",
+      "kb-konst-10a8c2a8",
+      "kb-konst-3688fa35",
+      "kb-v2-p6-063",
+      "kb-ext-0230-e5a38a3a3a",
+      "kb-ext-1653-e998b23a3a"
+    ],
+    "konstruksi01-q007::D": [
+      "kb-konst-6cba094c",
+      "kb-konst-29f1c2cb",
+      "kb-konst-e69ba6e1",
+      "kb-konst-7d64ebfa",
+      "kb-konst-7556a14a",
+      "kb-konst-dc752f83",
+      "kb-1633260",
+      "kb-konst-e814cadd",
+      "kb-konst-92450a81",
+      "kb-ext-1222-e7bdae3a3a"
+    ],
+    "konstruksi01-q008::A": [
+      "kb-konst-4efa92df",
+      "kb-konst-256a8083"
+    ],
+    "konstruksi01-q008::B": [
+      "kb-konst-295efe65",
+      "kb-konst-c68d394d"
+    ],
+    "konstruksi01-q008::C": [
+      "kb-konst-6866a256",
+      "kb-konst-da8e0681"
+    ],
+    "konstruksi01-q008::D": [
+      "kb-konst-6f1f8032",
+      "kb-konst-6cba094c"
+    ],
+    "konstruksi01-q009::A": [
+      "kb-konst-fce47e56",
+      "kb-konst-2b259a03",
+      "kb-konst-c70b71da",
+      "kb-konst-b530735f",
+      "kb-v2-p5-008",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-konst-c20a7e2c"
+    ],
+    "konstruksi01-q009::B": [
+      "kb-konst-eddd48bd",
+      "kb-1199640",
+      "kb-konst-99550da4",
+      "kb-v2-p6-403",
+      "kb-konst-b530735f",
+      "kb-konst-20b346e2",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-konst-c20a7e2c",
+      "kb-konst-2b259a03",
+      "kb-v2-p6-016",
+      "kb-konst-ef41c2bf"
+    ],
+    "konstruksi01-q009::C": [
+      "kb-1296670",
+      "kb-konst-f4107804",
+      "kb-konst-6a4b96fd",
+      "kb-ext-0590-e6b7b73a3a",
+      "kb-1220810"
+    ],
+    "konstruksi01-q009::D": [
+      "kb-konst-62fefce0",
+      "kb-konst-9bed840d",
+      "kb-konst-3af0f60e",
+      "kb-1318610",
+      "kb-1158400",
+      "kb-ext-0684-e4bdbf3a3a"
+    ],
+    "konstruksi01-q010::A": [
+      "kb-konst-06525078",
+      "kb-konst-b736ad89",
+      "kb-konst-11a16495",
+      "kb-konst-4fc3fb05",
+      "kb-konst-b530735f",
+      "kb-1324940",
+      "kb-konst-9fff208e",
+      "kb-ext-0889-e4b88a3a3a",
+      "kb-konst-cdfd540c"
+    ],
+    "konstruksi01-q010::B": [
+      "kb-konst-9b1efbb0",
+      "kb-konst-c5eb36b5",
+      "kb-ext-0236-e9968b3a3a",
+      "kb-konst-6207e433",
+      "kb-konst-15180db3",
+      "kb-konst-c20a7e2c",
+      "kb-ext-0120-e9818b3a3a",
+      "kb-konst-2b259a03"
+    ],
+    "konstruksi01-q010::C": [
+      "kb-konst-4d58451a",
+      "kb-konst-81f1dc7e",
+      "kb-konst-a6a6f56a",
+      "kb-v2-p5-008",
+      "kb-konst-07cb3216",
+      "kb-ext-1340-e68a953a3a",
+      "kb-ext-1407-e585a53a3a",
+      "kb-ext-1145-e6b8ac3a3a"
+    ],
+    "konstruksi01-q010::D": [
+      "kb-konst-446358df",
+      "kb-konst-2008ceec",
+      "kb-konst-7f539ea4",
+      "kb-ext-0799-e591a83a3a",
+      "kb-konst-0ad2ad97",
+      "kb-konst-dbdc10b8",
+      "kb-konst-b530735f",
+      "kb-ext-1220-e79fa53a3a"
+    ],
+    "konstruksi01-q011::A": [
+      "kb-konst-1109741a",
+      "kb-ext-0271-e5b7bb3a3a",
+      "kb-ext-0889-e4b88a3a3a",
+      "kb-konst-3e44291c"
+    ],
+    "konstruksi01-q011::B": [
+      "kb-konst-3c109c95",
+      "kb-1386050",
+      "kb-konst-bf68fdf4",
+      "kb-konst-446358df",
+      "kb-ext-0799-e591a83a3a",
+      "kb-konst-d8c3d1cc",
+      "kb-ext-1220-e79fa53a3a"
+    ],
+    "konstruksi01-q011::C": [
+      "kb-konst-0c71c731",
+      "kb-konst-dc73532c",
+      "kb-konst-bba3ae61",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-ext-0382-e5bcb73a3a",
+      "kb-konst-6207e433"
+    ],
+    "konstruksi01-q011::D": [
+      "kb-konst-b736ad89",
+      "kb-konst-8015dcb9",
+      "kb-konst-cc49a584",
+      "kb-konst-4ff131e8",
+      "kb-v2-p4-090",
+      "kb-v2-p6-064"
+    ],
+    "konstruksi01-q012::A": [
+      "kb-konst-c5e7cada",
+      "kb-konst-2576f9a1"
+    ],
+    "konstruksi01-q012::B": [
+      "kb-konst-c0cfe991",
+      "kb-konst-cc9fafd6"
+    ],
+    "konstruksi01-q012::C": [
+      "kb-konst-c41c7b69",
+      "kb-konst-b480f805"
+    ],
+    "konstruksi01-q012::D": [
+      "kb-konst-ccd719ad",
+      "kb-konst-b736ad89"
+    ],
+    "konstruksi01-q013::A": [
+      "kb-konst-943e8e84"
+    ],
+    "konstruksi01-q013::B": [
+      "kb-konst-50cbbd13"
+    ],
+    "konstruksi01-q013::C": [
+      "kb-konst-0b2323a9"
+    ],
+    "konstruksi01-q013::D": [
+      "kb-konst-6ffab5b6"
+    ],
+    "konstruksi01-q014::A": [
+      "kb-konst-98c6b9c5",
+      "kb-konst-d6ca0f24",
+      "kb-konst-59ad81c3",
+      "kb-konst-faf6922b",
+      "kb-1323080"
+    ],
+    "konstruksi01-q014::B": [
+      "kb-konst-49d03a66",
+      "kb-1458770",
+      "kb-konst-e80ee757",
+      "kb-konst-4656badf",
+      "kb-ext-1407-e585a53a3a",
+      "kb-konst-44bb5829",
+      "kb-ext-1139-e980813a3a",
+      "kb-v2-p6-155"
+    ],
+    "konstruksi01-q014::C": [
+      "kb-konst-138979bd",
+      "kb-konst-e2c26e95",
+      "kb-1385120",
+      "kb-1220810"
+    ],
+    "konstruksi01-q014::D": [
+      "kb-konst-041b1f52",
+      "kb-konst-20dc3125",
+      "kb-konst-0e0ba4f9",
+      "kb-konst-3f7029b0",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-konst-20b346e2",
+      "kb-ext-0684-e4bdbf3a3a"
+    ],
+    "konstruksi01-q015::A": [
+      "kb-1798230",
+      "kb-konst-3dfa0027",
+      "kb-1283280",
+      "kb-1375390",
+      "kb-1190470",
+      "kb-ext-0506-e59bba3a3a"
+    ],
+    "konstruksi01-q015::B": [
+      "kb-konst-da8adec1",
+      "kb-konst-a7446bd3",
+      "kb-latsol-16f9ddd31d",
+      "kb-konst-26bfad95",
+      "kb-konst-e76d5983",
+      "kb-1279730",
+      "kb-ext-1407-e585a53a3a",
+      "kb-ext-1139-e980813a3a"
+    ],
+    "konstruksi01-q015::C": [
+      "kb-konst-09a8bac0",
+      "kb-konst-e2c26e95",
+      "kb-konst-4926e21d",
+      "kb-konst-20b346e2",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a"
+    ],
+    "konstruksi01-q015::D": [
+      "kb-konst-1581b56d",
+      "kb-konst-5b286fab",
+      "kb-konst-d0c6924c",
+      "kb-v2-p6-016",
+      "kb-ext-0590-e6b7b73a3a",
+      "kb-ext-0621-e4bd9c3a3a"
+    ],
+    "konstruksi01-q016::A": [
+      "kb-konst-f3536fed",
+      "kb-konst-d6ca0f24",
+      "kb-konst-59ad81c3",
+      "kb-2082140",
+      "kb-ext-1491-e582993a3a",
+      "kb-konst-e01e7bda",
+      "kb-1269320",
+      "kb-1220810"
+    ],
+    "konstruksi01-q016::B": [
+      "kb-konst-0f18f800",
+      "kb-konst-cb0dd292",
+      "kb-1583930",
+      "kb-v2-p6-049",
+      "kb-1385120"
+    ],
+    "konstruksi01-q016::C": [
+      "kb-konst-a9c45c9f",
+      "kb-konst-1b0f07a4",
+      "kb-konst-b5332c26",
+      "kb-konst-ca9cc2dc",
+      "kb-konst-faf6922b",
+      "kb-konst-b5c10b8a",
+      "kb-konst-59ad81c3",
+      "kb-1220810"
+    ],
+    "konstruksi01-q016::D": [
+      "kb-konst-5b244c2a",
+      "kb-konst-3322f5b4",
+      "kb-ext-1756-e7ab8b3a3a",
+      "kb-v2-p6-094",
+      "kb-konst-98531c1f",
+      "kb-1220810"
+    ],
+    "konstruksi01-q017::A": [
+      "kb-konst-c725bdc1",
+      "kb-konst-d8faa3f9",
+      "kb-konst-59bbf57a",
+      "kb-konst-6ffab5b6",
+      "kb-konst-9c84a11d",
+      "kb-konst-82103db5",
+      "kb-konst-f7aa4a73",
+      "kb-konst-1a4f34a3",
+      "kb-ext-0153-e68abc3a3a",
+      "kb-v2-p6-155",
+      "kb-ext-0576-e590883a3a",
+      "kb-v2-p4-117",
+      "kb-konst-c20a7e2c",
+      "kb-ext-0889-e4b88a3a3a"
+    ],
+    "konstruksi01-q017::B": [
+      "kb-konst-fd7c426b",
+      "kb-konst-d5eb38c4",
+      "kb-konst-5b244c2a",
+      "kb-konst-a439c4c4",
+      "kb-v2-p6-155",
+      "kb-1306200"
+    ],
+    "konstruksi01-q017::C": [
+      "kb-konst-34452cc9",
+      "kb-v2-p4-117",
+      "kb-konst-b2a064b8",
+      "kb-ext-0215-e9818e3a3a",
+      "kb-konst-0e0ba4f9"
+    ],
+    "konstruksi01-q017::D": [
+      "kb-1154120",
+      "kb-v2-p4-197",
+      "kb-konst-46faa81b",
+      "kb-1199640"
+    ],
+    "konstruksi01-q018::A": [
+      "kb-konst-af34ed14",
+      "kb-konst-5d592b18",
+      "kb-konst-76920f44",
+      "kb-ext-0571-e9ab98e689",
+      "kb-ext-0600-e69c803a3a",
+      "kb-1306200",
+      "kb-1517480",
+      "kb-1241550"
+    ],
+    "konstruksi01-q018::B": [
+      "kb-konst-d3da7b6b",
+      "kb-konst-7bd19698",
+      "kb-konst-fa0cb9fb",
+      "kb-konst-942addff",
+      "kb-konst-d808a4dd",
+      "kb-1424550",
+      "kb-ext-1123-e7b5843a3a",
+      "kb-ext-1756-e7ab8b3a3a",
+      "kb-konst-09d03947",
+      "kb-konst-180b906c",
+      "kb-konst-bcd0531b"
+    ],
+    "konstruksi01-q018::C": [
+      "kb-konst-3fe39bd4",
+      "kb-konst-8482ecb1",
+      "kb-konst-80c667f0",
+      "kb-konst-416bdbfd",
+      "kb-ext-1123-e7b5843a3a",
+      "kb-ext-1756-e7ab8b3a3a",
+      "kb-konst-2c91d915",
+      "kb-konst-09d03947"
+    ],
+    "konstruksi01-q018::D": [
+      "kb-konst-e28e04d1",
+      "kb-konst-9c50eecf",
+      "kb-ext-latsol-0101",
+      "kb-konst-07ce00d3",
+      "kb-konst-85dafe52",
+      "kb-konst-33c6fcc4",
+      "kb-konst-9decaf96",
+      "kb-konst-09d03947",
+      "kb-ext-0382-e5bcb73a3a"
+    ],
+    "konstruksi01-q019::A": [
+      "kb-konst-9b623231",
+      "kb-konst-75e2ff8a",
+      "kb-konst-7c62f9f2",
+      "kb-konst-94d01984",
+      "kb-konst-f342a3f7",
+      "kb-konst-3fe39bd4",
+      "kb-konst-82103db5",
+      "kb-ext-0621-e4bd9c3a3a",
+      "kb-konst-6207e433",
+      "kb-v2-p6-109",
+      "kb-konst-09d03947",
+      "kb-ext-1334-e580923a3a",
+      "kb-v2-p2-104",
+      "kb-ext-1407-e585a53a3a",
+      "kb-konst-f247c0f0"
+    ],
+    "konstruksi01-q019::B": [
+      "kb-konst-f1c611a5",
+      "kb-konst-b7f4f986",
+      "kb-konst-fd921b85",
+      "kb-konst-f15d377c",
+      "kb-konst-c65a88a4",
+      "kb-2647210"
+    ],
+    "konstruksi01-q019::C": [
+      "kb-konst-9ae7c720",
+      "kb-konst-b9efbd08",
+      "kb-konst-f15d377c",
+      "kb-konst-3dc3d6d0"
+    ],
+    "konstruksi01-q019::D": [
+      "kb-konst-7ff11abf",
+      "kb-konst-b888d019",
+      "kb-konst-ddacfde8",
+      "kb-ext-latsol-0097",
+      "kb-konst-666776f1",
+      "kb-ext-1756-e7ab8b3a3a"
+    ],
+    "konstruksi01-q020::A": [
+      "kb-konst-f1c611a5",
+      "kb-1242790",
+      "kb-konst-210d8a89"
+    ],
+    "konstruksi01-q020::B": [
+      "kb-konst-16595479",
+      "kb-konst-77b14f0a",
+      "kb-ext-0112-e5bc953a3a",
+      "kb-ext-0259-e68e9b3a3a",
+      "kb-1266650",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-konst-c041ff74"
+    ],
+    "konstruksi01-q020::C": [
+      "kb-konst-92074faf",
+      "kb-konst-c944cc83",
+      "kb-v2-p6-120",
+      "kb-konst-3dc3d6d0",
+      "kb-ext-0707-e694af3a3a",
+      "kb-konst-f247c0f0"
+    ],
+    "konstruksi01-q020::D": [
+      "kb-konst-cdf67624",
+      "kb-ext-latsol-0074",
+      "kb-konst-32541cae",
+      "kb-konst-c944cc83",
+      "kb-1577440",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-v2-p6-022",
+      "kb-1520380"
+    ],
+    "konstruksi01-q021::A": [
+      "kb-konst-4d78a69f",
+      "kb-2544890",
+      "kb-konst-ad03a9cd",
+      "kb-ext-0112-e5bc953a3a",
+      "kb-ext-0259-e68e9b3a3a",
+      "kb-ext-latsol-0074",
+      "kb-1520380",
+      "kb-1218920"
+    ],
+    "konstruksi01-q021::B": [
+      "kb-konst-48714613",
+      "kb-konst-733b1ef0",
+      "kb-konst-845db406",
+      "kb-konst-8918f2ab",
+      "kb-v2-p6-260",
+      "kb-konst-af34ed14",
+      "kb-ext-0728-e68c813a3a",
+      "kb-konst-653acfb6"
+    ],
+    "konstruksi01-q021::C": [
+      "kb-konst-3586d05f",
+      "kb-konst-653acfb6",
+      "kb-konst-845db406",
+      "kb-ext-1073-e588873a3a",
+      "kb-1454180"
+    ],
+    "konstruksi01-q021::D": [
+      "kb-konst-4aaaed86",
+      "kb-konst-8918f2ab",
+      "kb-ext-1296-e7b7a03a3a",
+      "kb-konst-a9c86150",
+      "kb-1278070"
+    ],
+    "konstruksi01-q022::A": [
+      "kb-konst-5b9db3f9",
+      "kb-konst-2604e0c1",
+      "kb-konst-4f14b91a",
+      "kb-konst-90efd8c2",
+      "kb-1266650"
+    ],
+    "konstruksi01-q022::B": [
+      "kb-konst-e0d19258",
+      "kb-konst-6fd8f3f9",
+      "kb-v2-p6-063",
+      "kb-1385120",
+      "kb-1220940",
+      "kb-ext-1123-e7b5843a3a",
+      "kb-v2-p6-155"
+    ],
+    "konstruksi01-q022::C": [
+      "kb-konst-ee82cc43",
+      "kb-konst-697ffeed",
+      "kb-konst-4b4070fd",
+      "kb-konst-0c144c87",
+      "kb-konst-9c91724a",
+      "kb-ext-1597-e5a4893a3a"
+    ],
+    "konstruksi01-q022::D": [
+      "kb-konst-4f799fd8",
+      "kb-konst-38de732f",
+      "kb-konst-d5b5a092",
+      "kb-konst-100cf8b7",
+      "kb-konst-20c5d3fd",
+      "kb-1404570"
+    ],
+    "konstruksi01-q023::A": [
+      "kb-konst-f5d8a617",
+      "kb-konst-fb120703",
+      "kb-ext-latsol-0043",
+      "kb-v2-p6-114",
+      "kb-1278070"
+    ],
+    "konstruksi01-q023::B": [
+      "kb-konst-86e84e13",
+      "kb-konst-4da3ce1e",
+      "kb-konst-20b346e2",
+      "kb-konst-fb120703",
+      "kb-v2-p6-114",
+      "kb-konst-210a00b3"
+    ],
+    "konstruksi01-q023::C": [
+      "kb-konst-a68326ff",
+      "kb-konst-1a4c5166",
+      "kb-konst-b6e2a15f",
+      "kb-1409800"
+    ],
+    "konstruksi01-q023::D": [
+      "kb-konst-059a5c0c",
+      "kb-konst-103271ed",
+      "kb-konst-055013b6",
+      "kb-konst-3878cf9e",
+      "kb-konst-c738e719",
+      "kb-1199330"
+    ],
+    "konstruksi01-q024::A": [
+      "kb-konst-d04a5146",
+      "kb-konst-e4616380",
+      "kb-v2-p6-049",
+      "kb-1385120",
+      "kb-1278070"
+    ],
+    "konstruksi01-q024::B": [
+      "kb-konst-4c85bf79",
+      "kb-konst-b74af4f2",
+      "kb-konst-055013b6",
+      "kb-konst-5a8c635b",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-ext-0395-e69bb23a3a"
+    ],
+    "konstruksi01-q024::C": [
+      "kb-konst-2bc1b914",
+      "kb-konst-10ef099f",
+      "kb-konst-29642f01",
+      "kb-konst-f84151a9"
+    ],
+    "konstruksi01-q024::D": [
+      "kb-konst-8deba674",
+      "kb-ext-0112-e5bc953a3a",
+      "kb-konst-d05ae4f0",
+      "kb-konst-e53b3d07"
+    ],
+    "konstruksi01-q025::A": [
+      "kb-konst-42c45d77",
+      "kb-konst-79881921",
+      "kb-konst-9ddec70d",
+      "kb-1513700",
+      "kb-konst-0222af40",
+      "kb-konst-006cbc3b",
+      "kb-konst-f247c0f0",
+      "kb-ext-0501-e591bc3a3a",
+      "kb-ext-1222-e7bdae3a3a"
+    ],
+    "konstruksi01-q025::B": [
+      "kb-konst-1f3147d4",
+      "kb-konst-54ef98f9",
+      "kb-1200220",
+      "kb-konst-20b346e2",
+      "kb-1936030",
+      "kb-1520380"
+    ],
+    "konstruksi01-q025::C": [
+      "kb-konst-04186b92",
+      "kb-konst-1a376a55",
+      "kb-konst-a47fee7c",
+      "kb-konst-5a58438f",
+      "kb-konst-4bd8d6cd",
+      "kb-konst-006cbc3b",
+      "kb-konst-185d56fa",
+      "kb-konst-4e8911bc",
+      "kb-konst-a8d8f95b",
+      "kb-1205920",
+      "kb-konst-f247c0f0",
+      "kb-1356690"
+    ],
+    "konstruksi01-q025::D": [
+      "kb-konst-2dd7cb82",
+      "kb-konst-9647e71b",
+      "kb-konst-a8d8f95b",
+      "kb-konst-1a376a55"
+    ],
+    "konstruksi01-q026::A": [
+      "kb-konst-96e35e34",
+      "kb-konst-0222af40",
+      "kb-konst-f589598a",
+      "kb-2057810",
+      "kb-1205920",
+      "kb-v2-p6-120",
+      "kb-ext-1222-e7bdae3a3a"
+    ],
+    "konstruksi01-q026::B": [
+      "kb-konst-668715cb",
+      "kb-konst-54f46b66",
+      "kb-konst-fcb455c7",
+      "kb-konst-bc101310",
+      "kb-konst-f2a65ed2",
+      "kb-1200220",
+      "kb-1520380"
+    ],
+    "konstruksi01-q026::C": [
+      "kb-konst-6fd8f3f9",
+      "kb-konst-8afbd2e1",
+      "kb-konst-b7ea6941",
+      "kb-konst-5ca9cd57",
+      "kb-konst-a8d8f95b",
+      "kb-ext-1296-e7b7a03a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-1454180"
+    ],
+    "konstruksi01-q026::D": [
+      "kb-konst-cf5e993e",
+      "kb-konst-978467fb",
+      "kb-konst-b1eee544",
+      "kb-konst-74e30863",
+      "kb-konst-a8d8f95b",
+      "kb-konst-5fb370fb",
+      "kb-ext-0856-e69bb83a3a"
+    ],
+    "konstruksi01-q027::A": [
+      "kb-konst-fc91fe1e",
+      "kb-konst-e247e26b",
+      "kb-1304350",
+      "kb-konst-f56bf516",
+      "kb-konst-d987823f",
+      "kb-konst-18f6a44e",
+      "kb-konst-f50a5e27",
+      "kb-konst-c19e1679",
+      "kb-latsol-hon",
+      "kb-konst-a8d8f95b",
+      "kb-1499490",
+      "kb-ext-1139-e980813a3a",
+      "kb-ext-0837-e587ba3a3a",
+      "kb-1554010",
+      "kb-konst-8492aab6",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-ext-0684-e4bdbf3a3a"
+    ],
+    "konstruksi01-q027::B": [
+      "kb-konst-53c2e649",
+      "kb-konst-23d0b0f3",
+      "kb-konst-8a181470",
+      "kb-konst-5d0a495f",
+      "kb-ext-1415-e786b13a3a",
+      "kb-ext-0837-e587ba3a3a",
+      "kb-konst-e34fba69"
+    ],
+    "konstruksi01-q027::C": [
+      "kb-konst-78ce5a34",
+      "kb-konst-e5b83d85",
+      "kb-konst-d70871c4"
+    ],
+    "konstruksi01-q027::D": [
+      "kb-konst-af15917c",
+      "kb-konst-05f4a579",
+      "kb-konst-f3c0a1b4",
+      "kb-konst-a8d8f95b",
+      "kb-ext-0112-e5bc953a3a",
+      "kb-konst-8bb68464",
+      "kb-konst-af34ed14",
+      "kb-ext-1250-e8aabf3a3a"
+    ],
+    "konstruksi01-q028::A": [
+      "kb-konst-eaf2572d",
+      "kb-konst-d85c2c21",
+      "kb-konst-dd4d7d04",
+      "kb-konst-23d0b0f3",
+      "kb-1520380",
+      "kb-konst-a8d8f95b",
+      "kb-v2-p2-104",
+      "kb-ext-0387-e68c9f3a3a"
+    ],
+    "konstruksi01-q028::B": [
+      "kb-konst-51561e48",
+      "kb-konst-364ae373",
+      "kb-konst-f3c0a1b4",
+      "kb-konst-a8d8f95b",
+      "kb-ext-1250-e8aabf3a3a",
+      "kb-konst-aed2f812"
+    ],
+    "konstruksi01-q028::C": [
+      "kb-konst-506804d1",
+      "kb-konst-0c144c87",
+      "kb-konst-df944745",
+      "kb-konst-d70871c4",
+      "kb-konst-80af94dd",
+      "kb-1257940",
+      "kb-konst-20f7bf67",
+      "kb-konst-df30ed98",
+      "kb-konst-23d0b0f3",
+      "kb-konst-3fe39bd4",
+      "kb-1402360"
+    ],
+    "konstruksi01-q028::D": [
+      "kb-konst-d16f9f95",
+      "kb-konst-51936ba2",
+      "kb-konst-0bb51f52",
+      "kb-konst-df30ed98",
+      "kb-1633260",
+      "kb-ext-latsol-0097"
+    ],
+    "konstruksi01-q029::A": [
+      "kb-konst-05b7f723",
+      "kb-1345670",
+      "kb-konst-180b906c",
+      "kb-konst-bcd0531b",
+      "kb-konst-d70871c4",
+      "kb-konst-5b2b19bb",
+      "kb-1220810"
+    ],
+    "konstruksi01-q029::B": [
+      "kb-konst-88b62e39",
+      "kb-konst-bbb08817",
+      "kb-konst-ee1eed93",
+      "kb-konst-fa388229",
+      "kb-v2-p6-018",
+      "kb-ext-0447-e6b1ba3a3a"
+    ],
+    "konstruksi01-q029::C": [
+      "kb-konst-457bd923",
+      "kb-1437970",
+      "kb-konst-8aeedd16",
+      "kb-v2-p6-011",
+      "kb-v2-p6-056",
+      "kb-v2-p6-275",
+      "kb-konst-7f6e8340"
+    ],
+    "konstruksi01-q029::D": [
+      "kb-konst-e6ea73e3",
+      "kb-konst-c02568eb",
+      "kb-konst-727e64f6",
+      "kb-konst-fa388229",
+      "kb-konst-9917ee75",
+      "kb-konst-34d2a551",
+      "kb-1243040",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-konst-bcd0531b",
+      "kb-ext-0560-e8a18c3a3a",
+      "kb-ext-0501-e591bc3a3a"
+    ],
+    "konstruksi01-q030::A": [
+      "kb-konst-2744d677",
+      "kb-1485540",
+      "kb-konst-1ad8918a",
+      "kb-konst-af7671f3",
+      "kb-konst-4d51eb75",
+      "kb-konst-e1897105",
+      "kb-konst-f5dda7a6",
+      "kb-konst-f91f249c",
+      "kb-konst-96b90020",
+      "kb-1296670",
+      "kb-konst-1a5470c3"
+    ],
+    "konstruksi01-q030::B": [
+      "kb-konst-bc685dc8",
+      "kb-konst-db66a317",
+      "kb-konst-b51028ad",
+      "kb-konst-d1da6098",
+      "kb-1437970",
+      "kb-ext-0983-e590b93a3a",
+      "kb-ext-1541-e4bb983a3a"
+    ],
+    "konstruksi01-q030::C": [
+      "kb-konst-dd9ae688",
+      "kb-konst-0a26dbe4",
+      "kb-konst-0ca921b3",
+      "kb-konst-93086762",
+      "kb-1513530",
+      "kb-konst-6207e433"
+    ],
+    "konstruksi01-q030::D": [
+      "kb-konst-647edd0c",
+      "kb-konst-8e535552",
+      "kb-konst-5a728d3b",
+      "kb-konst-1a5470c3",
+      "kb-konst-1a376a55",
+      "kb-konst-f5810d23",
+      "kb-ext-1326-e5a1973a3a",
+      "kb-1583930"
+    ],
+    "konstruksi01-q031::A": [
+      "kb-konst-f0081477",
+      "kb-konst-5e5d7954",
+      "kb-konst-347023ad",
+      "kb-ext-0621-e4bd9c3a3a",
+      "kb-konst-fb00fc86",
+      "kb-konst-f0beff9c"
+    ],
+    "konstruksi01-q031::B": [
+      "kb-konst-c8e3f554",
+      "kb-konst-a5659633",
+      "kb-konst-1a376a55",
+      "kb-1577440",
+      "kb-ext-1276-e9809a3a3a"
+    ],
+    "konstruksi01-q031::C": [
+      "kb-konst-d5af5cf2",
+      "kb-konst-4f93debb",
+      "kb-konst-1974aa2a",
+      "kb-konst-169ef4cb",
+      "kb-konst-7f14bb98",
+      "kb-konst-144963d4",
+      "kb-konst-35e0c281",
+      "kb-konst-94c79ecf",
+      "kb-konst-e8cc2ae9",
+      "kb-1205920",
+      "kb-konst-1a376a55",
+      "kb-v2-p2-104",
+      "kb-ext-1407-e585a53a3a",
+      "kb-konst-f247c0f0",
+      "kb-konst-4ff131e8",
+      "kb-1577440",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-ext-1653-e998b23a3a"
+    ],
+    "konstruksi01-q031::D": [
+      "kb-konst-cb7e0608",
+      "kb-konst-8e535552",
+      "kb-1165880",
+      "kb-2057810",
+      "kb-1437970",
+      "kb-1306200"
+    ],
+    "konstruksi01-q032::A": [
+      "kb-konst-861375e1",
+      "kb-konst-7768a607",
+      "kb-konst-4da6f849",
+      "kb-konst-1a376a55",
+      "kb-konst-9fff208e",
+      "kb-ext-0165-e4b88b3a3a",
+      "kb-ext-0684-e4bdbf3a3a"
+    ],
+    "konstruksi01-q032::B": [
+      "kb-konst-1217181e",
+      "kb-konst-0173c1e4",
+      "kb-konst-3537e287",
+      "kb-konst-f46c0e0c",
+      "kb-konst-3f4bc86c",
+      "kb-konst-d70329df",
+      "kb-1306200",
+      "kb-konst-7768a607",
+      "kb-konst-f8e13517",
+      "kb-konst-f15d377c",
+      "kb-ext-1756-e7ab8b3a3a",
+      "kb-v2-p6-043"
+    ],
+    "konstruksi01-q032::C": [
+      "kb-konst-b8a237ba",
+      "kb-konst-16fb4fcd",
+      "kb-konst-8a36d745",
+      "kb-1306200",
+      "kb-konst-f247c0f0"
+    ],
+    "konstruksi01-q032::D": [
+      "kb-konst-fdbd899b",
+      "kb-konst-5e5d7954",
+      "kb-1306200",
+      "kb-konst-f247c0f0",
+      "kb-konst-898308cf"
+    ],
+    "konstruksi01-q033::A": [
+      "kb-v2-p6-202",
+      "kb-konst-e2018cd7",
+      "kb-konst-e65df3bf",
+      "kb-konst-fd5ab442",
+      "kb-1429200",
+      "kb-ext-0112-e5bc953a3a",
+      "kb-konst-8bb68464",
+      "kb-konst-1a376a55",
+      "kb-1218920"
+    ],
+    "konstruksi01-q033::B": [
+      "kb-konst-4b4070fd",
+      "kb-konst-1a376a55",
+      "kb-v2-p6-094",
+      "kb-konst-24d5b3bd",
+      "kb-1278070"
+    ],
+    "konstruksi01-q033::C": [
+      "kb-konst-2805c48d",
+      "kb-konst-7e05c456",
+      "kb-konst-a9c86150",
+      "kb-1297540",
+      "kb-1306200",
+      "kb-1278070"
+    ],
+    "konstruksi01-q033::D": [
+      "kb-konst-c15335fe",
+      "kb-konst-5d4b8102",
+      "kb-konst-1a376a55",
+      "kb-ext-0621-e4bd9c3a3a",
+      "kb-ext-0684-e4bdbf3a3a"
+    ],
+    "konstruksi01-q034::A": [
+      "kb-konst-47145240",
+      "kb-konst-b7a1ad14",
+      "kb-konst-8ddb2ea7",
+      "kb-konst-fa8218af",
+      "kb-u1416-f97f177453",
+      "kb-ext-1284-e4bd8e3a3a",
+      "kb-1633260",
+      "kb-2647210"
+    ],
+    "konstruksi01-q034::B": [
+      "kb-konst-40590d36",
+      "kb-ext-1094-e6b497e6b5",
+      "kb-konst-8c3956a3",
+      "kb-konst-23da87d8",
+      "kb-ext-0675-e6ae8b3a3a",
+      "kb-v2-p6-016",
+      "kb-ext-1757-e6b5813a3a"
+    ],
+    "konstruksi01-q034::C": [
+      "kb-konst-4ed7e735",
+      "kb-konst-d5804ef4",
+      "kb-konst-17f97667",
+      "kb-ext-1162-e689933a3a",
+      "kb-v2-p6-155",
+      "kb-1355850",
+      "kb-konst-c65a88a4"
+    ],
+    "konstruksi01-q034::D": [
+      "kb-konst-c23a7be9",
+      "kb-konst-a7446bd3",
+      "kb-konst-5f0b2b3a",
+      "kb-ext-0078-e795b0e789",
+      "kb-konst-d8504925",
+      "kb-konst-d16124ad",
+      "kb-v2-p6-006",
+      "kb-ext-0794-e58f973a3a",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-ext-0235-e9968b3a3a",
+      "kb-1318470",
+      "kb-ext-1491-e582993a3a"
+    ],
+    "konstruksi01-q035::A": [
+      "kb-konst-702335c8",
+      "kb-konst-d16f9f95",
+      "kb-konst-a4045887",
+      "kb-konst-51936ba2",
+      "kb-konst-2c26082d",
+      "kb-konst-ec175183",
+      "kb-1490580",
+      "kb-1205900",
+      "kb-ext-1500-e5bf853a3a",
+      "kb-ext-0560-e8a18c3a3a",
+      "kb-ext-0242-e5a4963a3a",
+      "kb-ext-1284-e4bd8e3a3a",
+      "kb-v2-p6-071",
+      "kb-1633260",
+      "kb-ext-1145-e6b8ac3a3a"
+    ],
+    "konstruksi01-q035::B": [
+      "kb-konst-b87e6add",
+      "kb-konst-d587a4b9",
+      "kb-konst-b07540af",
+      "kb-konst-07689622",
+      "kb-ext-0889-e4b88a3a3a",
+      "kb-ext-0189-e58aa03a3a",
+      "kb-1538220"
+    ],
+    "konstruksi01-q035::C": [
+      "kb-konst-5b8723ef",
+      "kb-v2-p6-016",
+      "kb-1480210",
+      "kb-ext-1500-e5bf853a3a",
+      "kb-konst-b5c10b8a",
+      "kb-ext-0506-e59bba3a3a"
+    ],
+    "konstruksi01-q035::D": [
+      "kb-konst-ae440bbe",
+      "kb-konst-ec175183",
+      "kb-1211510",
+      "kb-ext-0506-e59bba3a3a",
+      "kb-v2-p6-010",
+      "kb-konst-6d970ef9"
+    ],
+    "konstruksi01-q036::A": [
+      "kb-konst-a0469aaf"
+    ],
+    "konstruksi01-q036::B": [
+      "kb-konst-2bae7f2c"
+    ],
+    "konstruksi01-q036::C": [
+      "kb-konst-980cc8c9"
+    ],
+    "konstruksi01-q036::D": [
+      "kb-konst-cbff7694"
+    ],
+    "konstruksi01-q037::A": [
+      "kb-konst-af8991d4",
+      "kb-konst-07f58801",
+      "kb-1513530",
+      "kb-konst-db86ed37",
+      "kb-konst-3c64550b",
+      "kb-ext-0549-e5ba833a3a",
+      "kb-1533500",
+      "kb-1499490",
+      "kb-konst-e2e732bc",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-1355850",
+      "kb-ext-0684-e4bdbf3a3a"
+    ],
+    "konstruksi01-q037::B": [
+      "kb-1253790",
+      "kb-konst-054cb41a",
+      "kb-1245470",
+      "kb-ext-1408-e585a53a3a",
+      "kb-v2-p6-054",
+      "kb-ext-0153-e68abc3a3a",
+      "kb-ext-1312-e8b2bc3a3a"
+    ],
+    "konstruksi01-q037::C": [
+      "kb-konst-4675ba4e",
+      "kb-ext-0506-e59bba3a3a",
+      "kb-ext-1734-e6bab63a3a",
+      "kb-konst-9b936603"
+    ],
+    "konstruksi01-q037::D": [
+      "kb-konst-f108b801",
+      "kb-konst-732ef593",
+      "kb-konst-e0d19258",
+      "kb-konst-f0bff7b8",
+      "kb-ext-0983-e590b93a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-1454180"
+    ],
+    "konstruksi01-q038::A": [
+      "kb-konst-5a24300b",
+      "kb-konst-b9301cf9",
+      "kb-1199640",
+      "kb-v2-p6-049",
+      "kb-1385120"
+    ],
+    "konstruksi01-q038::B": [
+      "kb-konst-91eec3ba",
+      "kb-konst-02285a5c",
+      "kb-konst-bffa4ea0",
+      "kb-konst-facd2231",
+      "kb-konst-ab47bf2f",
+      "kb-ext-1073-e588873a3a",
+      "kb-1524610",
+      "kb-v2-p6-049",
+      "kb-1158400",
+      "kb-konst-06a6f8e9",
+      "kb-1454180"
+    ],
+    "konstruksi01-q038::C": [
+      "kb-konst-3670b94a",
+      "kb-konst-b446cbc3",
+      "kb-konst-917c946e",
+      "kb-konst-3a0212e0",
+      "kb-ext-1073-e588873a3a",
+      "kb-konst-1b0f07a4"
+    ],
+    "konstruksi01-q038::D": [
+      "kb-konst-deecd396",
+      "kb-konst-0b29c926",
+      "kb-konst-32c8f664",
+      "kb-1443220",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-1553660",
+      "kb-ext-1011-e695b43a3a"
+    ],
+    "konstruksi01-q039::A": [
+      "kb-konst-41435cbf",
+      "kb-konst-1a86a758",
+      "kb-konst-998dfe8d",
+      "kb-konst-e2e732bc",
+      "kb-konst-84fb09fc"
+    ],
+    "konstruksi01-q039::B": [
+      "kb-konst-591e458e",
+      "kb-konst-a0d7866a",
+      "kb-konst-27ce5049",
+      "kb-konst-e9d92860",
+      "kb-ext-0260-e589b23a3a",
+      "kb-konst-84fb09fc"
+    ],
+    "konstruksi01-q039::C": [
+      "kb-konst-e6ce8c86",
+      "kb-konst-92d75dca",
+      "kb-v2-p6-017",
+      "kb-v2-p6-264",
+      "kb-konst-7fe3fa22"
+    ],
+    "konstruksi01-q039::D": [
+      "kb-konst-2d9ee298",
+      "kb-konst-5cc41ca5",
+      "kb-konst-5f0f6a60",
+      "kb-konst-e7b1039c",
+      "kb-konst-46a15a8f",
+      "kb-konst-18f591e4",
+      "kb-konst-80c667f0",
+      "kb-1385120",
+      "kb-konst-416bdbfd",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-ext-1283-e987a33a3a",
+      "kb-konst-2206f8b5"
+    ],
+    "konstruksi01-q040::A": [
+      "kb-konst-899a2869",
+      "kb-konst-8652df08",
+      "kb-konst-87721fed",
+      "kb-ext-latsol-0099",
+      "kb-ext-1597-e5a4893a3a",
+      "kb-konst-4f799fd8",
+      "kb-ext-0189-e58aa03a3a",
+      "kb-konst-b8d8fbb5",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-1499490",
+      "kb-2229780"
+    ],
+    "konstruksi01-q040::B": [
+      "kb-konst-3418775e",
+      "kb-1451900",
+      "kb-ext-0780-e58f963a3a",
+      "kb-ext-1541-e4bb983a3a",
+      "kb-konst-6207e433",
+      "kb-1211510"
+    ],
+    "konstruksi01-q040::C": [
+      "kb-konst-a652de9b",
+      "kb-konst-807a8d90",
+      "kb-ext-0776-e5bcb13a3a",
+      "kb-ext-0728-e68c813a3a"
+    ],
+    "konstruksi01-q040::D": [
+      "kb-konst-15fdd0b5",
+      "kb-konst-9744fd06",
+      "kb-konst-ba976b8b",
+      "kb-konst-e53b3d07",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-1406150"
+    ],
+    "konstruksi01-q041::A": [
+      "kb-konst-9f633b01",
+      "kb-konst-6cbde156",
+      "kb-konst-93ad5c44",
+      "kb-konst-f7ce094b",
+      "kb-konst-3b227e82",
+      "kb-1243040",
+      "kb-1385120",
+      "kb-ext-0684-e4bdbf3a3a"
+    ],
+    "konstruksi01-q041::B": [
+      "kb-ext-0632-e4bd9ce6a5",
+      "kb-1633260",
+      "kb-latsol-3c480a52b2",
+      "kb-1153930",
+      "kb-konst-845db406",
+      "kb-ext-0236-e9968b3a3a",
+      "kb-1266650"
+    ],
+    "konstruksi01-q041::C": [
+      "kb-konst-7b83483b",
+      "kb-konst-fa8ac168",
+      "kb-konst-feb537d3",
+      "kb-v2-p1-014",
+      "kb-1296670",
+      "kb-v2-p6-063",
+      "kb-ext-1357-e5838d3a3a",
+      "kb-latsol-3c480a52b2",
+      "kb-ext-1015-e6ada33a3a",
+      "kb-1451350",
+      "kb-1205900"
+    ],
+    "konstruksi01-q041::D": [
+      "kb-konst-e4621124",
+      "kb-konst-4a1ffd80",
+      "kb-v2-p6-049",
+      "kb-konst-31c78938"
+    ],
+    "konstruksi01-q042::A": [
+      "kb-konst-35c5bd50",
+      "kb-konst-317d00f5",
+      "kb-konst-8b4282e4",
+      "kb-konst-50414fd1",
+      "kb-konst-d64a2ee7",
+      "kb-v2-p6-058",
+      "kb-ext-0728-e68c813a3a",
+      "kb-ext-0889-e4b88a3a3a",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-1371120"
+    ],
+    "konstruksi01-q042::B": [
+      "kb-konst-abdff25f",
+      "kb-konst-19f61e7c",
+      "kb-konst-a9dd582a",
+      "kb-1324940",
+      "kb-v2-p6-063",
+      "kb-konst-53e6c820",
+      "kb-ext-0382-e5bcb73a3a",
+      "kb-1533500",
+      "kb-2082140",
+      "kb-konst-5b2b19bb",
+      "kb-ext-0863-e5b08f3a3a",
+      "kb-1506890",
+      "kb-konst-594b0194",
+      "kb-konst-5fb370fb",
+      "kb-ext-latsol-0083"
+    ],
+    "konstruksi01-q042::C": [
+      "kb-konst-d2ab91f4",
+      "kb-konst-cca1fcf8",
+      "kb-v2-p6-254",
+      "kb-konst-77d765e8",
+      "kb-konst-f57d371f",
+      "kb-2647210"
+    ],
+    "konstruksi01-q042::D": [
+      "kb-konst-8f1d9c73",
+      "kb-konst-ffe4bdc3",
+      "kb-konst-3ffb4cb1",
+      "kb-ext-1756-e7ab8b3a3a",
+      "kb-konst-badd2de7",
+      "kb-v2-p6-094",
+      "kb-konst-ef41c2bf",
+      "kb-v2-p6-017",
+      "kb-ext-0837-e587ba3a3a",
+      "kb-konst-6676efd4"
+    ],
+    "konstruksi01-q043::A": [
+      "kb-konst-ae7903c1",
+      "kb-konst-f7393a83",
+      "kb-konst-10b89a7b",
+      "kb-konst-00b7b51b",
+      "kb-konst-6a4841c5",
+      "kb-v2-p6-054",
+      "kb-konst-2d97b84e",
+      "kb-konst-9d72a737",
+      "kb-1496400",
+      "kb-1454180"
+    ],
+    "konstruksi01-q043::B": [
+      "kb-konst-a10e36e7",
+      "kb-1272780",
+      "kb-ext-latsol-0056",
+      "kb-konst-5e2ab6e1",
+      "kb-2256270"
+    ],
+    "konstruksi01-q043::C": [
+      "kb-konst-a46a4f13",
+      "kb-konst-20e3b474",
+      "kb-konst-be99811e",
+      "kb-konst-ac85d6ce",
+      "kb-1376760",
+      "kb-ext-1378-e8aaad3a3a",
+      "kb-ext-0780-e58f963a3a",
+      "kb-1513530",
+      "kb-ext-0242-e5a4963a3a",
+      "kb-1441540"
+    ],
+    "konstruksi01-q043::D": [
+      "kb-konst-fce40292",
+      "kb-konst-961b4a3c",
+      "kb-konst-fb68af74",
+      "kb-konst-155d1a91",
+      "kb-v2-p1-015",
+      "kb-1272780",
+      "kb-v2-p6-026",
+      "kb-konst-20c5d3fd",
+      "kb-konst-b9efbd08",
+      "kb-ext-0837-e587ba3a3a",
+      "kb-1220810",
+      "kb-ext-latsol-0056",
+      "kb-konst-5e2ab6e1",
+      "kb-konst-9c7caea6",
+      "kb-1355850",
+      "kb-konst-b9a9b2b1",
+      "kb-v2-p6-101",
+      "kb-konst-f4faa7ce",
+      "kb-konst-3cb9fa57"
+    ],
+    "konstruksi01-q044::A": [
+      "kb-konst-317e25d1",
+      "kb-konst-ccd719ad",
+      "kb-konst-ad9fe3f2",
+      "kb-konst-79ffaca0",
+      "kb-konst-f2182d8c",
+      "kb-konst-c0f17ea6",
+      "kb-1297540",
+      "kb-1487660",
+      "kb-1633260",
+      "kb-ext-0837-e587ba3a3a",
+      "kb-1220810",
+      "kb-1318470",
+      "kb-konst-20c5d3fd",
+      "kb-1220940",
+      "kb-ext-0728-e68c813a3a",
+      "kb-ext-1123-e7b5843a3a",
+      "kb-ext-0576-e590883a3a",
+      "kb-konst-b6e2a15f",
+      "kb-konst-8492aab6",
+      "kb-konst-5058d049"
+    ],
+    "konstruksi01-q044::B": [
+      "kb-konst-acdffe2e",
+      "kb-konst-dfe0d20c",
+      "kb-konst-df944745",
+      "kb-konst-cc9c5cc1"
+    ],
+    "konstruksi01-q044::C": [
+      "kb-konst-d89ce649",
+      "kb-konst-dbdfc726",
+      "kb-konst-8958c615",
+      "kb-ext-1067-e7a98d3a3a",
+      "kb-konst-e2e732bc",
+      "kb-ext-0951-e4bcb83a3a",
+      "kb-konst-6a4841c5"
+    ],
+    "konstruksi01-q044::D": [
+      "kb-konst-6fabae84",
+      "kb-konst-b6e2a15f",
+      "kb-1404570",
+      "kb-1633260",
+      "kb-konst-54f46b66",
+      "kb-1218920"
+    ],
+    "konstruksi01-q045::A": [
+      "kb-konst-765e37ec",
+      "kb-konst-84de1d59",
+      "kb-konst-f984a374",
+      "kb-ext-0621-e4bd9c3a3a",
+      "kb-ext-0684-e4bdbf3a3a"
+    ],
+    "konstruksi01-q045::B": [
+      "kb-konst-38de732f",
+      "kb-konst-5a59e73a",
+      "kb-ext-0165-e4b88b3a3a",
+      "kb-ext-0960-e68caf3a3a",
+      "kb-ext-1408-e585a53a3a",
+      "kb-1587310",
+      "kb-2256270",
+      "kb-konst-998dfe8d",
+      "kb-1205900",
+      "kb-1454180"
+    ],
+    "konstruksi01-q045::C": [
+      "kb-konst-4eb2b7af",
+      "kb-konst-d9aefdf4",
+      "kb-konst-fe3b697c",
+      "kb-konst-3bb9db8f",
+      "kb-konst-809ab4bf",
+      "kb-konst-c29fb1f3",
+      "kb-2647210",
+      "kb-ext-1145-e6b8ac3a3a",
+      "kb-konst-e00e18dd",
+      "kb-1454180",
+      "kb-1489880",
+      "kb-konst-57e385fb",
+      "kb-konst-99476cad",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-konst-f984a374",
+      "kb-ext-0621-e4bd9c3a3a",
+      "kb-v2-p4-090"
+    ],
+    "konstruksi01-q045::D": [
+      "kb-konst-953e0c69",
+      "kb-konst-f627c18c",
+      "kb-ext-0271-e5b7bb3a3a",
+      "kb-konst-ad9f4b04",
+      "kb-konst-e00e18dd",
+      "kb-1306200"
+    ],
+    "konstruksi01-q046::A": [
+      "kb-konst-44e76c51",
+      "kb-konst-46b48b4c",
+      "kb-konst-9259d802",
+      "kb-konst-575bd8d0",
+      "kb-konst-c65ac133",
+      "kb-konst-37870ec7",
+      "kb-konst-1c2614f4",
+      "kb-konst-20b346e2",
+      "kb-konst-7a66a781",
+      "kb-konst-5e5d7954",
+      "kb-konst-1a376a55",
+      "kb-2082140",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-konst-ea35514f",
+      "kb-ext-0863-e5b08f3a3a"
+    ],
+    "konstruksi01-q046::B": [
+      "kb-konst-b93fc95c",
+      "kb-konst-ea35514f",
+      "kb-2082140",
+      "kb-v2-p6-101",
+      "kb-ext-0863-e5b08f3a3a",
+      "kb-konst-129a2997"
+    ],
+    "konstruksi01-q046::C": [
+      "kb-konst-44163fa5",
+      "kb-1296670",
+      "kb-2082140",
+      "kb-v2-p6-056",
+      "kb-konst-2d7d5730",
+      "kb-konst-1a376a55",
+      "kb-konst-6d970ef9",
+      "kb-1297540",
+      "kb-ext-0684-e4bdbf3a3a"
+    ],
+    "konstruksi01-q046::D": [
+      "kb-konst-319e1e58",
+      "kb-konst-5ea1b1e4",
+      "kb-konst-8244111d",
+      "kb-v2-p6-101",
+      "kb-1355810",
+      "kb-konst-6d970ef9",
+      "kb-ext-0260-e589b23a3a",
+      "kb-ext-1747-e890bd3a3a"
+    ],
+    "konstruksi01-q047::A": [
+      "kb-konst-8cb481e7",
+      "kb-konst-733deb62",
+      "kb-konst-409cee8b",
+      "kb-konst-c59bd1c9",
+      "kb-1271750",
+      "kb-1199330"
+    ],
+    "konstruksi01-q047::B": [
+      "kb-konst-29cb64cc",
+      "kb-1199330",
+      "kb-v2-p6-120",
+      "kb-konst-20b346e2",
+      "kb-ext-0382-e5bcb73a3a",
+      "kb-v2-p6-063",
+      "kb-konst-e814cadd"
+    ],
+    "konstruksi01-q047::C": [
+      "kb-konst-54711f13",
+      "kb-konst-ecf52dcb",
+      "kb-konst-5e5d7954",
+      "kb-ext-1073-e588873a3a",
+      "kb-v2-p6-155"
+    ],
+    "konstruksi01-q047::D": [
+      "kb-konst-ee82cc43",
+      "kb-konst-697ffeed",
+      "kb-konst-b8e90e1b",
+      "kb-konst-55cc34d0",
+      "kb-1499490",
+      "kb-konst-ee1eed93",
+      "kb-v2-p6-063",
+      "kb-1199330",
+      "kb-konst-5e5d7954",
+      "kb-ext-0230-e5a38a3a3a",
+      "kb-ext-0576-e590883a3a",
+      "kb-ext-0684-e4bdbf3a3a"
+    ],
+    "konstruksi01-q048::A": [
+      "kb-konst-187c40d1",
+      "kb-konst-d8a35040",
+      "kb-1297540",
+      "kb-konst-5933625b",
+      "kb-1896380",
+      "kb-ext-0780-e58f963a3a",
+      "kb-v2-p6-016",
+      "kb-konst-c738e719",
+      "kb-konst-8a181470",
+      "kb-ext-0879-e784bc3a3a"
+    ],
+    "konstruksi01-q048::B": [
+      "kb-konst-4a0f44c5",
+      "kb-konst-cabc15b0",
+      "kb-konst-3048edb2",
+      "kb-konst-20dc3125",
+      "kb-konst-c20a7e2c",
+      "kb-konst-129a2997",
+      "kb-konst-5b286fab",
+      "kb-konst-b92ae358",
+      "kb-ext-0684-e4bdbf3a3a"
+    ],
+    "konstruksi01-q048::C": [
+      "kb-1368670",
+      "kb-konst-6001ac5e",
+      "kb-konst-9164cf3a",
+      "kb-v2-p3-329",
+      "kb-konst-86f49408",
+      "kb-konst-622289bd",
+      "kb-konst-ad03a9cd",
+      "kb-konst-0983af2a",
+      "kb-ext-latsol-0074",
+      "kb-konst-93efe62e",
+      "kb-ext-0147-e6b19a3a3a",
+      "kb-v2-p3-155"
+    ],
+    "konstruksi01-q048::D": [
+      "kb-konst-3128f1ea",
+      "kb-konst-76727ee8",
+      "kb-v2-p6-016",
+      "kb-ext-1407-e585a53a3a",
+      "kb-ext-0120-e9818b3a3a",
+      "kb-1545370"
+    ],
+    "konstruksi01-q049::A": [
+      "kb-konst-b719fc23",
+      "kb-konst-451c8b62",
+      "kb-konst-13657789",
+      "kb-konst-0feb3f3f",
+      "kb-ext-0780-e58f963a3a",
+      "kb-v2-p6-025",
+      "kb-konst-4df2402f",
+      "kb-ext-0112-e5bc953a3a",
+      "kb-konst-8bb68464",
+      "kb-1454180"
+    ],
+    "konstruksi01-q049::B": [
+      "kb-konst-d0d19459",
+      "kb-konst-e3a66294",
+      "kb-konst-40293261",
+      "kb-konst-de23db55",
+      "kb-konst-97d82132",
+      "kb-konst-451c8b62",
+      "kb-konst-13657789",
+      "kb-konst-0feb3f3f",
+      "kb-konst-4df2402f",
+      "kb-konst-1bf59545",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-1324940",
+      "kb-ext-0120-e9818b3a3a"
+    ],
+    "konstruksi01-q049::C": [
+      "kb-konst-bcd245b6",
+      "kb-konst-6b6382d5",
+      "kb-1324940",
+      "kb-1158400",
+      "kb-konst-cc5f4bfc",
+      "kb-v2-p6-011",
+      "kb-v2-p6-022",
+      "kb-ext-1313-e8bba23a3a"
+    ],
+    "konstruksi01-q049::D": [
+      "kb-konst-7648acf1",
+      "kb-konst-ca972f1f",
+      "kb-konst-8036b065",
+      "kb-ext-0571-e9ab98e689",
+      "kb-2544890",
+      "kb-ext-0259-e68e9b3a3a",
+      "kb-konst-2b68edbd"
+    ],
+    "konstruksi01-q050::A": [
+      "kb-2424850",
+      "kb-konst-f256a046",
+      "kb-1226890",
+      "kb-ext-0684-e4bdbf3a3a",
+      "kb-1633260",
+      "kb-konst-91c3146f",
+      "kb-konst-f7b33443",
+      "kb-konst-91a83b84",
+      "kb-1297540"
+    ],
+    "konstruksi01-q050::B": [
+      "kb-konst-3da53dcf",
+      "kb-konst-b6e2a15f",
+      "kb-v2-p6-500",
+      "kb-ext-1500-e5bf853a3a",
+      "kb-1576150",
+      "kb-1297540"
+    ],
+    "konstruksi01-q050::C": [
+      "kb-konst-1865ea7b",
+      "kb-konst-6a17df3c",
+      "kb-konst-b6e2a15f",
+      "kb-ext-1500-e5bf853a3a",
+      "kb-ext-0707-e694af3a3a",
+      "kb-1163400",
+      "kb-1297540",
+      "kb-1226890",
+      "kb-2424850",
+      "kb-konst-0d4bc94e",
+      "kb-v2-p6-011"
+    ],
+    "konstruksi01-q050::D": [
+      "kb-konst-7b882a7a",
+      "kb-konst-b9966739",
+      "kb-konst-6d3afb13",
+      "kb-v2-p6-011",
+      "kb-u1416-b5f0f70d8d",
+      "kb-ext-0382-e5bcb73a3a",
+      "kb-ext-0153-e68abc3a3a",
+      "kb-1619700",
+      "kb-1218630"
+    ]
+  }
+}

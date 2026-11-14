@@ -1,0 +1,499 @@
+/* ==========================================================================
+   HOME-DASHBOARD.css — HOMEPAGE ONLY (.home-dashboard)
+   Art Direction: OPSI B — HIGH-CONTRAST IVORY STAGE + BORDERLESS LEDGER
+   Scoped strictly to .home-dashboard.
+   Active CBT Exam Screen (body.exam-mode / .exam-shell) is 100% FROZEN.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. Homepage Root Container (Open to Directional Ivory Stage — No Giant Box)
+   -------------------------------------------------------------------------- */
+.home-dashboard {
+  font-family: var(--zen-font);
+  color: var(--zen-ink);
+  background: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+}
+
+.home-dashboard *,
+.home-dashboard *::before,
+.home-dashboard *::after {
+  box-sizing: border-box;
+}
+
+/* --------------------------------------------------------------------------
+   2. Conditional Resume Session Capsule Banner
+   -------------------------------------------------------------------------- */
+.home-dashboard .hd-resume-banner {
+  max-width: 780px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 14px 20px 14px 22px;
+  background: rgba(255, 255, 255, 0.90);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--zen-line-strong);
+  border-radius: var(--zen-radius-pill);
+}
+
+.home-dashboard .hd-resume-info {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  min-width: 0;
+}
+
+.home-dashboard .hd-resume-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--zen-accent-brand);
+  flex-shrink: 0;
+}
+
+.home-dashboard .hd-resume-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--zen-accent-brand);
+}
+
+.home-dashboard .hd-resume-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--zen-ink);
+}
+
+.home-dashboard .hd-resume-meta {
+  font-size: 13px;
+  color: var(--zen-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+/* --------------------------------------------------------------------------
+   3. Editorial Display Hero (Left-Aligned Axis + Intentional Breathing Space)
+   -------------------------------------------------------------------------- */
+.home-dashboard .hd-hero {
+  max-width: var(--zen-hero-max);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px 0 8px;
+  border-bottom: 0;
+}
+
+.home-dashboard .hd-kicker {
+  margin: 0 0 16px;
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 12px;
+  border-radius: var(--zen-radius-pill);
+  background: rgba(17, 19, 21, 0.06);
+  border: 1px solid var(--zen-line);
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--zen-ink-soft);
+}
+
+.home-dashboard .hd-title {
+  margin: 0 0 16px;
+  font-family: var(--zen-font-display);
+  font-size: clamp(34px, 3.6vw, 52px);
+  font-weight: 750;
+  line-height: 1.08;
+  letter-spacing: -0.032em;
+  color: var(--zen-ink);
+}
+
+.home-dashboard .hd-spec {
+  margin: 0 0 32px;
+  font-size: 15.5px;
+  font-weight: 450;
+  line-height: 1.55;
+  color: var(--zen-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.home-dashboard .hd-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+
+/* --------------------------------------------------------------------------
+   4. Homepage Section Headers & Active-Inversion Category Filter Pills
+   -------------------------------------------------------------------------- */
+.home-dashboard .hd-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.home-dashboard .hd-section-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 14px 24px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--zen-line-strong);
+}
+
+.home-dashboard .hd-section-title-group {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.home-dashboard .hd-section-title {
+  margin: 0;
+  font-family: var(--zen-font-display);
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--zen-ink);
+}
+
+.home-dashboard .hd-section-meta {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--zen-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Reference Action Switcher Pill Geometry */
+.home-dashboard .hd-filter-tabs {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.home-dashboard .hd-filter-tab {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  min-height: 34px;
+  padding: 0 15px;
+  border: 1px solid var(--zen-line-strong);
+  border-radius: var(--zen-radius-pill);
+  background: rgba(255, 255, 255, 0.72);
+  color: var(--zen-ink-soft);
+  font-family: inherit;
+  font-size: 12.5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition:
+    color 0.16s var(--zen-ease),
+    background-color 0.16s var(--zen-ease),
+    border-color 0.16s var(--zen-ease);
+}
+
+.home-dashboard .hd-filter-tab:hover {
+  color: var(--zen-ink);
+  background: #ffffff;
+  border-color: var(--zen-ink);
+}
+
+/* High-Contrast Active Inversion (Charcoal fill + Crisp White text) */
+.home-dashboard .hd-filter-tab.is-active {
+  color: #ffffff;
+  font-weight: 600;
+  background: var(--zen-ink);
+  border-color: var(--zen-ink);
+}
+
+.home-dashboard .hd-filter-count {
+  font-size: 11.5px;
+  color: inherit;
+  opacity: 0.75;
+  font-variant-numeric: tabular-nums;
+}
+
+/* --------------------------------------------------------------------------
+   5. Borderless Package Directory Ledger (No Outer Box, Hairline Separators)
+   -------------------------------------------------------------------------- */
+.home-dashboard .hd-pkg-list {
+  display: flex;
+  flex-direction: column;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+}
+
+.home-dashboard .hd-pkg-row {
+  display: grid;
+  grid-template-columns: 44px minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: 18px;
+  padding: 14px 12px;
+  background: rgba(250, 249, 245, 0.54);
+  border-bottom: 1px solid var(--zen-line);
+  transition: background-color 0.16s var(--zen-ease);
+}
+
+.home-dashboard .hd-pkg-row:hover {
+  background: rgba(255, 255, 255, 0.90);
+}
+
+/* Squircle Monogram Badge for Package Code */
+.home-dashboard .hd-pkg-code {
+  width: 34px;
+  height: 34px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background: rgba(17, 19, 21, 0.06);
+  border: 1px solid var(--zen-line);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--zen-ink);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.01em;
+}
+
+.home-dashboard .hd-pkg-row:hover .hd-pkg-code {
+  background: var(--zen-ink);
+  border-color: var(--zen-ink);
+  color: #ffffff;
+}
+
+.home-dashboard .hd-pkg-main {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 12px;
+  min-width: 0;
+}
+
+.home-dashboard .hd-pkg-name {
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--zen-ink);
+}
+
+.home-dashboard .hd-pkg-edition {
+  font-size: 12.5px;
+  font-weight: 500;
+  color: var(--zen-muted);
+}
+
+.home-dashboard .hd-pkg-meta {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--zen-muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.home-dashboard .hd-pkg-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* --------------------------------------------------------------------------
+   6. Recent History Ledger & Empty State (Borderless Hairline Architecture)
+   -------------------------------------------------------------------------- */
+.home-dashboard .hd-empty-line {
+  margin: 0;
+  padding: 22px 4px;
+  font-size: 13.5px;
+  color: var(--zen-muted);
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--zen-line);
+}
+
+.home-dashboard .hd-table-wrap {
+  width: 100%;
+  overflow-x: auto;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+}
+
+.home-dashboard .hd-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13.5px;
+  font-variant-numeric: tabular-nums;
+}
+
+.home-dashboard .hd-table th {
+  text-align: left;
+  padding: 12px 12px;
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--zen-muted);
+  background: transparent;
+  border-bottom: 1px solid var(--zen-line-strong);
+  white-space: nowrap;
+}
+
+.home-dashboard .hd-table td {
+  padding: 14px 12px;
+  color: var(--zen-ink);
+  background: rgba(250, 249, 245, 0.50);
+  border-bottom: 1px solid var(--zen-line);
+  vertical-align: middle;
+}
+
+.home-dashboard .hd-table tbody tr:hover td {
+  background: rgba(255, 255, 255, 0.90);
+}
+
+.home-dashboard .hd-table th:last-child,
+.home-dashboard .hd-table td:last-child {
+  text-align: right;
+}
+
+.home-dashboard .hd-hist-pkg {
+  font-weight: 600;
+  color: var(--zen-ink);
+}
+
+/* --------------------------------------------------------------------------
+   7. Mobile Responsive Breakpoint (<= 680px)
+   -------------------------------------------------------------------------- */
+@media (max-width: 680px) {
+  .home-dashboard {
+    gap: 44px;
+  }
+
+  .home-dashboard .hd-resume-banner {
+    flex-direction: column;
+    align-items: stretch;
+    border-radius: var(--zen-radius-squircle);
+    padding: 16px;
+  }
+
+  .home-dashboard .hd-resume-banner .hd-btn {
+    width: 100%;
+  }
+
+  .home-dashboard .hd-hero {
+    padding: 6px 0 4px;
+  }
+
+  .home-dashboard .hd-title {
+    font-size: clamp(28px, 7.5vw, 36px);
+    line-height: 1.12;
+  }
+
+  .home-dashboard .hd-spec {
+    font-size: 14px;
+    margin-bottom: 24px;
+  }
+
+  .home-dashboard .hd-actions {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+
+  .home-dashboard .hd-actions .hd-btn-primary {
+    grid-column: 1 / -1;
+  }
+
+  .home-dashboard .hd-actions .hd-btn {
+    width: 100%;
+    padding: 0 14px;
+  }
+
+  .home-dashboard .hd-section-head {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .home-dashboard .hd-filter-tabs {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 6px;
+  }
+
+  .home-dashboard .hd-filter-tab {
+    justify-content: center;
+    min-height: 44px;
+    padding: 0 8px;
+  }
+
+  .home-dashboard .hd-pkg-row {
+    grid-template-columns: 36px minmax(0, 1fr) auto;
+    gap: 10px 12px;
+    padding: 16px 8px;
+  }
+
+  .home-dashboard .hd-pkg-actions {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-top: 4px;
+    width: 100%;
+  }
+
+  .home-dashboard .hd-row-btn {
+    width: 100%;
+    font-size: 13px;
+  }
+
+  /* Responsive Stacked History Table on Mobile */
+  .home-dashboard .hd-table thead {
+    display: none;
+  }
+
+  .home-dashboard .hd-table,
+  .home-dashboard .hd-table tbody,
+  .home-dashboard .hd-table tr,
+  .home-dashboard .hd-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .home-dashboard .hd-table tr {
+    padding: 14px 8px;
+    background: rgba(250, 249, 245, 0.62);
+    border-bottom: 1px solid var(--zen-line-strong);
+  }
+
+  .home-dashboard .hd-table td {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    padding: 4px 0;
+    background: transparent;
+    border-bottom: 0;
+    text-align: right;
+  }
+
+  .home-dashboard .hd-table td::before {
+    content: attr(data-label);
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--zen-muted);
+    text-align: left;
+  }
+
+  .home-dashboard .hd-table td.hd-td-action {
+    padding-top: 10px;
+  }
+
+  .home-dashboard .hd-table td.hd-td-action::before {
+    display: none;
+  }
+}
